@@ -1,0 +1,995 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Faire un projet supervisé ou un mémoire - <i>Questions fréquemment posées (FAQ)</i></title>
+<!-- 2017-05-06 Sat 22:16 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="Org-mode">
+<meta name="author" content="[[http://chairecontroledegestion.hec.ca/][Samuel Sponem, Professeur Agrégé, HEC Montréal]]Samuel Sponem, Professeur Agrégé, HEC Montréal">
+
+<link  href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<style type="text/css">
+/* org mode styles on top of twbs */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    font-size: 18px;
+    margin-bottom: 105px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 101px;
+    background-color: #f5f5f5;
+}
+
+footer > div {
+    padding: 10px;
+}
+
+footer p {
+    margin: 0 0 5px;
+    text-align: center;
+    font-size: 16px;
+}
+
+#table-of-contents {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+blockquote p {
+    font-size: 18px;
+}
+
+pre {
+    font-size: 16px;
+}
+
+.footpara {
+    display: inline-block;
+}
+
+figcaption {
+  font-size: 16px;
+  color: #666;
+  font-style: italic;
+  padding-bottom: 15px;
+}
+
+/* from twbs docs */
+
+.bs-docs-sidebar.affix {
+    position: static;
+}
+@media (min-width: 768px) {
+    .bs-docs-sidebar {
+        padding-left: 20px;
+    }
+}
+
+/* All levels of nav */
+.bs-docs-sidebar .nav > li > a {
+    display: block;
+    padding: 4px 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #999;
+}
+.bs-docs-sidebar .nav > li > a:hover,
+.bs-docs-sidebar .nav > li > a:focus {
+    padding-left: 19px;
+    color: #A1283B;
+    text-decoration: none;
+    background-color: transparent;
+    border-left: 1px solid #A1283B;
+}
+.bs-docs-sidebar .nav > .active > a,
+.bs-docs-sidebar .nav > .active:hover > a,
+.bs-docs-sidebar .nav > .active:focus > a {
+    padding-left: 18px;
+    font-weight: bold;
+    color: #A1283B;
+    background-color: transparent;
+    border-left: 2px solid #A1283B;
+}
+
+/* Nav: second level (shown on .active) */
+.bs-docs-sidebar .nav .nav {
+    display: none; /* Hide by default, but at >768px, show it */
+    padding-bottom: 10px;
+}
+.bs-docs-sidebar .nav .nav > li > a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 30px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.bs-docs-sidebar .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav > li > a:focus {
+    padding-left: 29px;
+}
+.bs-docs-sidebar .nav .nav > .active > a,
+.bs-docs-sidebar .nav .nav > .active:hover > a,
+.bs-docs-sidebar .nav .nav > .active:focus > a {
+    padding-left: 28px;
+    font-weight: 500;
+}
+
+/* Nav: third level (shown on .active) */
+.bs-docs-sidebar .nav .nav .nav {
+    padding-bottom: 10px;
+}
+.bs-docs-sidebar .nav .nav .nav > li > a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 40px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.bs-docs-sidebar .nav .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav .nav > li > a:focus {
+    padding-left: 39px;
+}
+.bs-docs-sidebar .nav .nav .nav > .active > a,
+.bs-docs-sidebar .nav .nav .nav > .active:hover > a,
+.bs-docs-sidebar .nav .nav .nav > .active:focus > a {
+    padding-left: 38px;
+    font-weight: 500;
+}
+
+/* Show and affix the side nav when space allows it */
+@media (min-width: 992px) {
+    .bs-docs-sidebar .nav > .active > ul {
+        display: block;
+    }
+    /* Widen the fixed sidebar */
+    .bs-docs-sidebar.affix,
+    .bs-docs-sidebar.affix-bottom {
+        width: 213px;
+    }
+    .bs-docs-sidebar.affix {
+        position: fixed; /* Undo the static from mobile first approach */
+        top: 20px;
+    }
+    .bs-docs-sidebar.affix-bottom {
+        position: absolute; /* Undo the static from mobile first approach */
+    }
+    .bs-docs-sidebar.affix .bs-docs-sidenav,.bs-docs-sidebar.affix-bottom .bs-docs-sidenav {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+}
+@media (min-width: 1200px) {
+    /* Widen the fixed sidebar again */
+    .bs-docs-sidebar.affix-bottom,
+    .bs-docs-sidebar.affix {
+        width: 263px;
+    }
+}
+</style>
+<style>body { margin-bottom: 0px; }</style><script type="text/javascript">
+$(function() {
+    'use strict';
+
+    $('.bs-docs-sidebar li').first().addClass('active');
+
+    $(document.body).scrollspy({target: '.bs-docs-sidebar'});
+
+    $('.bs-docs-sidebar').affix();
+});
+</script>
+</head>
+<body>
+<div id="content" class="container">
+<div class="row"><div class="col-md-9"><h1 class="title">Faire un projet supervisé ou un mémoire - <i>Questions fréquemment posées (FAQ)</i></h1>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+<i><a href="http://chairecontroledegestion.hec.ca/">Samuel Sponem, Professeur Agrégé, HEC Montréal</a></i><br >
+<i>Mise à jour: 2017-05-06</i><br >
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2">Introduction</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Ce document est une liste des <i>FAQ (Frequently Asked Questions)</i> des étudiants lorsqu'ils réalisent un mémoire ou un projet supervisé à HEC Montréal.<br >
+</p>
+
+<p>
+La première chose à faire avant de se lancer dans un <a href="#sec-3-1">projet supervisé</a> ou un <a href="#sec-3-2">mémoire</a> est de prendre connaissance des règles qui encadrent ce travail. Ceci vous permettra d'avoir une meilleure idée de ce que vous avez envie de faire et facilitera votre recherche d'un superviseur. Il faut ensuite faire une <a href="#sec-4">revue de littérature</a> et, parfois, <a href="#sec-6">collecter</a> et <a href="#sec-7">analyser des données</a>.<br >
+</p>
+
+<p>
+<b>Des <a href="#sec-8">idées de sujets</a> sont proposées à la fin de ce document.</b><br >
+</p>
+
+<p>
+<i>Si vous souhaitez me contacter pour un mémoire ou un projet supervisé, vous pouvez trouver plus d'information sur moi, ainsi que mes coordonnées, sur le site de la <a href="http://chairecontroledegestion.hec.ca">chaire internationale CPA de recherche en contrôle de gestion</a>, dont je suis le titulaire</i><br >
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3">Le projet</h2>
+<div class="outline-text-2" id="text-3">
+</div><div id="outline-container-sec-3-1" class="outline-3">
+<h3 id="sec-3-1">Qu'est-ce qu'un projet supervisé ?</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+Il existe plusieurs types de projets supervisés (voir <a href="http://www.hec.ca/etudiant_actuel/mon_programme/msc/projet_supervise/index.html">http://www.hec.ca/etudiant_actuel/mon_programme/msc/projet_supervise/index.html</a>) :<br >
+</p>
+<ul class="org-ul">
+<li>Projet supervisé en organisation - mandat d’intervention<br >
+</li>
+<li>Rédaction d’un cas d’envergure<br >
+</li>
+<li><a href="#sec-3-3">Réalisation d’un mandat spécifique de recherche</a><br >
+</li>
+<li>Avis d’expert: analyse  d’une  réglementation  proposée  (par  exemple,  l’analyse  d’un  exposé-sondage  en comptabilité) ou sur une problématique spécifique de gestion<br >
+</li>
+<li>Projet entrepreneurial<br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-3-2" class="outline-3">
+<h3 id="sec-3-2">Qu'est-ce qu'un mémoire?</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+De nombreuses informations sur le mémoire peuvent être trouvées ici:<br >
+ <a href="http://www.hec.ca/etudiant_actuel/mon_programme/msc/memoire/index.html">http://www.hec.ca/etudiant_actuel/mon_programme/msc/memoire/index.html</a><br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-3-3" class="outline-3">
+<h3 id="sec-3-3">Qu'est-ce qu'un mandat de recherche?</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+Un "livrable bien défini", par exemple :<br >
+</p>
+<ul class="org-ul">
+<li>une recension, une analyse et une synthèse de la littérature pertinente à un domaine particulier<br >
+</li>
+<li>la participation à la construction ou au traitement d'une base de données<br >
+</li>
+<li>l’estimation ou le calibrage d'un modèle à partir de données empiriques<br >
+</li>
+<li>le développement d'outils pouvant servir à la collecte ou à l’analyse de données (questionnaire, grille d’entrevue, etc.)<br >
+</li>
+<li>l'adaptation d'une étude à d'autres données ou à d'autres environnements<br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-3-4" class="outline-3">
+<h3 id="sec-3-4">Comment choisir un sujet ?</h3>
+<div class="outline-text-3" id="text-3-4">
+<ul class="org-ul">
+<li>Prendre un sujet donné par un professeur: permet de s'insérer dans un programme de recherche et d'être guidé<br >
+</li>
+<li>Choisir vous-même un sujet : permet de creuser un sujet qui vous intéresse ou qui pourrait vous servir dans le cadre de votre carrière future (c'est l'occasion de devenir un "expert" sur un sujet donné)<br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-3-5" class="outline-3">
+<h3 id="sec-3-5">Quelle forme doit prendre le document ?</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+Concernant l'écriture du mémoire ou du projet supervisé, le document suivant est très utile : <a href="http://www.hec.ca/qualitecomm/caf/guide-redaction-travail-cycles.pdf">http://www.hec.ca/qualitecomm/caf/guide-redaction-travail-cycles.pdf</a><br >
+Pour un mémoire ou un projet supervisé "classique" le plus simple est bien souvent de respecter le plan suivant :<br >
+</p>
+<ol class="org-ol">
+<li><a href="#sec-3-6">Introduction</a><br >
+</li>
+<li><a href="#sec-4">Revue de littérature</a><br >
+</li>
+<li>Méthode de recherche<br >
+</li>
+<li>Résultats<br >
+</li>
+<li>Discussion et conclusion<br >
+</li>
+</ol>
+<p>
+L'objectif est de poser une question dans l'introduction à laquelle le mémoire tente d'apporter une réponse à partir d'éléments théoriques (lectures)  et/ou empiriques (données collectés).<br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-3-6" class="outline-3">
+<h3 id="sec-3-6">Que mettre dans l'introduction ?</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+L'introduction doit permettre de justifier le projet et d'annoncer le travail qui est développé dans le document. On doit y trouver :<br >
+</p>
+<ol class="org-ol">
+<li>Une accroche qui permet de montrer l'intérêt du sujet<br >
+</li>
+<li>Les définitions importantes pour faire le travail ainsi la mise en évidence d'un "problème" (ce qu'on appelle en général une problématique)<br >
+</li>
+<li>Une question de recherche ou un objectif de recherche<br >
+</li>
+<li>Un résumé des résultats et apport du travail<br >
+</li>
+<li>Une annonce du plan<br >
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-sec-3-7" class="outline-3">
+<h3 id="sec-3-7">Par quoi commencer?</h3>
+<div class="outline-text-3" id="text-3-7">
+<ol class="org-ol">
+<li>Trouver un sujet qui intéresse vous ou votre directeur de recherche<br >
+</li>
+<li>Commencer à faire une revue de littérature et voir quel terrain pourrait être intéressant<br >
+</li>
+<li>Trouver la question de recherche / l'objectif de la recherche<br >
+</li>
+<li>Continuer la revue de littérature<br >
+</li>
+<li>Collecter les données et les analyser<br >
+</li>
+<li>Finaliser<br >
+</li>
+</ol>
+<p>
+<i>Pendant toutes ces étapes, il faut écrire! Ce qui est écrit pourra être inséré au fur et à mesure (souvent après réécriture) dans le document</i><br >
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4">Identifier et choisir les sources d'information pour faire la revue de littérature</h2>
+<div class="outline-text-2" id="text-4">
+</div><div id="outline-container-sec-4-1" class="outline-3">
+<h3 id="sec-4-1">Pourquoi faire une revue de littérature ?</h3>
+<div class="outline-text-3" id="text-4-1">
+<ul class="org-ul">
+<li>Faire l'état des connaissance sur un sujet donné. <i>Si l'objectif du mémoire est de faire seulement une revue de littérature, sans terrain, c'est une bonne idée de montrer l'exhaustivité de la revue de littérature</i> <br >
+</li>
+<li>Comprendre le contexte (par exemple juridique ou économique)<br >
+</li>
+<li>Permettre de faire des hypothèses<br >
+</li>
+<li>Construire une grille d'analyse du phénomène qui servira à analyser les données collectées<br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-2" class="outline-3">
+<h3 id="sec-4-2">Quelles sont les ressources qui peuvent être mobilisées dans la revue de littérature?</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+Lectures n’ont de sens que si elles s’exercent de manière critique. Pour exercer son discernement, il faut savoir se repérer entre les différentes sources d’informations:<br >
+</p>
+<ul class="org-ul">
+<li>les articles de recherche issus des <a href="#sec-4-3">revues académiques</a><br >
+</li>
+<li>les articles issus des <a href="#sec-4-8">revues professionnelles</a><br >
+</li>
+<li>les articles de presse<br >
+</li>
+<li>les livres et les manuels<br >
+</li>
+<li>les lois et les normes<br >
+</li>
+<li>documentaires, films, romans&#x2026;<br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-3" class="outline-3">
+<h3 id="sec-4-3">Qu'est-ce qu'une revue académique?</h3>
+<div class="outline-text-3" id="text-4-3">
+</div><div id="outline-container-sec-4-3-1" class="outline-4">
+<h4 id="sec-4-3-1">Une révision en "double aveugle"</h4>
+<div class="outline-text-4" id="text-4-3-1">
+<p>
+Dans les revues de recherches, les articles sont écrits par des universitaires ou chercheurs et sont évalués de manière anonyme par un comité de lecture constitué de pairs (c’est-à-dire par des semblables qui sont aussi enseignants / chercheurs). Ces pairs sont (normalement) choisis par l’éditeur de la revue pour leurs compétences dans le domaine. En fonction de la qualité de l’article, les évaluateurs anonymes l’acceptent, demandent des révisions ou le refusent. Les auteurs des revues de recherche ne sont pas rémunérés pour leurs écrits. En revanche leur évaluation en tant que chercheur dépend des articles qu’ils ont réussit à publier dans des revues de recherche.<br >
+Les communication dans les colloques académiques (par exemple les colloques de l’Associations Francophone de Comptabilité, disponibles sur le site www.afc-cca.com) se rapprochent des articles des revues de recherches (mais certains colloques sont plus sélectifs que d’autres en ce qui concernent la rigueur scientifique).<br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-3-2" class="outline-4">
+<h4 id="sec-4-3-2">Des articles à destination des autres chercheurs</h4>
+<div class="outline-text-4" id="text-4-3-2">
+<p>
+Il existe deux types d’articles de recherche : les articles qui cherchent à décrire la réalité (grâce à des enquêtes, l’utilisation de bases de données ou des expérimentations) et les articles qui proposent des synthèses des recherches antérieures (ces articles sont aussi appelés « revue de littérature »).<br >
+Ces articles peuvent être utilisés pour faire l’état des connaissances ou des pratiques à un moment donné sur un sujet donné. Leur intérêt est de permettre une vision critique du sujet abordé. Ils ont aussi une certaine prétention à l’exhaustivité. De plus, les protocoles de recherches utilisés doivent garantir une certaine validité aux données empiriques qui y sont présentées. En revanche, de par le temps de publication, ces articles ne sont pas toujours au fait des dernières évolutions. Par ailleurs, ils emploient un vocabulaire spécifique aux chercheurs qui peut paraître déroutant au premier abord.<br >
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-4-4" class="outline-3">
+<h3 id="sec-4-4">Exemples de revues de recherche</h3>
+<div class="outline-text-3" id="text-4-4">
+<ul class="org-ul">
+<li>Contemporary Accounting Research - <a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)">http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)</a>1911-3846<br >
+</li>
+<li>Accounting Organizations and Society - <a href="http://www.sciencedirect.com/science/journal/03613682">http://www.sciencedirect.com/science/journal/03613682</a><br >
+</li>
+<li>Comptabilité, Contrôle, Audit - <a href="https://www.cairn.info/revue-comptabilite-controle-audit.htm">https://www.cairn.info/revue-comptabilite-controle-audit.htm</a><br >
+</li>
+<li>The Accounting Review - <a href="http://aaapubs.org/loi/accr?code=aaan-site">http://aaapubs.org/loi/accr?code=aaan-site</a><br >
+</li>
+<li>Management Accounting Research - <a href="http://www.sciencedirect.com/science/journal/10445005">http://www.sciencedirect.com/science/journal/10445005</a><br >
+</li>
+<li>Auditing: A Journal of Practice &amp; Theory -  <a href="http://aaajournals.org/loi/ajpt?code=aaan-site">http://aaajournals.org/loi/ajpt?code=aaan-site</a><br >
+</li>
+<li>Autres : Journal of Accounting Research, Journal of Accounting and Economics, European Accounting Review, Accounting Auditing &amp; Accountability Journal, Critical Perspectives on Accounting, Journal of Applied Accounting Research…<br >
+</li>
+<li>Voir liste ici : <a href="http://www.harzing.com/download/jql_field.pdf">http://www.harzing.com/download/jql_field.pdf</a> (section F&amp;A)<br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-5" class="outline-3">
+<h3 id="sec-4-5">Comment lire un article de recherche ?</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+L’article de recherche est  ne reflète (normalement) pas l’opinion de ses auteurs mais le résultat de leurs observations sur un « terrain de recherche ».<br >
+Ce type d’article est parfois écrit dans un style un peu abscons pour le non initié, car il utilise des termes qui n’appartiennent pas toujours au langage courant. Pour lire efficacement un article de recherche on peut essayer de repérer les éléments suivants :<br >
+</p>
+</div>
+<div id="outline-container-sec-4-5-1" class="outline-4">
+<h4 id="sec-4-5-1">Question de recherche</h4>
+<div class="outline-text-4" id="text-4-5-1">
+<p>
+La question de recherche n’est pas toujours formulée explicitement dans l’article. Il est cependant toujours possible de formuler la question à laquelle la recherche permet de répondre.<br >
+<i>Exemples de questions de recherche : Quels sont les systèmes de contrôle qui favorisent l’apprentissage ? Quels sont les systèmes d’information les plus efficaces dans un contexte donné ? Quels sont les choix comptables réalisés par les entreprises pour comptabiliser leurs actifs financiers ?</i><br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-5-2" class="outline-4">
+<h4 id="sec-4-5-2">Postulats (principes non démontrés)</h4>
+<div class="outline-text-4" id="text-4-5-2">
+<p>
+Les postulats sous-jacents traduisent les présupposés que l’article considère comme acquis et qui ne sont pas démontrés. Toute recherche conduit en effet à faire des choix et repose donc sur des postulats. Ces postulats sont le plus souvent implicites ; ils sont rarement mis en évidence par les auteurs et peuvent porter sur les méthodes de recherche ou sur les théories utilisées.<br >
+<i>Exemples de postulats : il est possible de déterminer les pratiques budgétaires d’une entreprise à partir des réponses données à un questionnaire par un contrôleur de gestion ; il est possible à partir de l’échantillon retenu d’en déduire le comportement de toute les entreprises ; la comptabilité ne sert qu’aux investisseurs ; l’entreprises est une somme de contrats.</i><br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-5-3" class="outline-4">
+<h4 id="sec-4-5-3">Résultats (réponse à la question de recherche)</h4>
+<div class="outline-text-4" id="text-4-5-3">
+<p>
+Les résultats obtenus peuvent être de deux ordres :<br >
+</p>
+<ol class="org-ol">
+<li>La validation ou le rejet d’hypothèses qui ont été posées à partir de la théorie ;<br >
+</li>
+<li>Des propositions issues du terrain de recherche ou de la revue de littérature réalisée (celles-ci ne sont pas toujours formulées de manière explicite et peuvent être résumées dans une figure ou un tableau, par exemple)<br >
+</li>
+</ol>
+<p>
+<i>Exemples de résultats : Cette recherche à permis de valider l’hypothèse selon laquelle le changement du système de contrôle de gestion permet de faire évoluer la stratégie de cette organisation ; À partir de cette recherche, il est possible de faire la proposition suivante : le mode de financement d’une entreprise à un impact fort sur les choix comptables qu’elle réalise.</i><br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-5-4" class="outline-4">
+<h4 id="sec-4-5-4">Méthode utilisée</h4>
+<div class="outline-text-4" id="text-4-5-4">
+<p>
+La méthode se caractérise par :<br >
+</p>
+<ol class="org-ol">
+<li>La ou les organisations auprès desquelles les données ont été collectées et la raison pour laquelle elles ont été choisies ;<br >
+</li>
+<li>Le mode de collecte de données (par entretiens, par observation, à partir de bases de données financières, à partir de rapports annuels, à partir d’articles de presse, à partir d’archives historiques, etc.)<br >
+</li>
+<li>Le traitement qui a été appliqué à ces données (traitement statistique, analyse de contenu, comparaison des cas, etc.)<br >
+</li>
+</ol>
+<p>
+Il peut arriver qu’un article de recherche ne fasse référence à aucun terrain de recherche. Il s’appuie alors sur d’autres articles de recherche pour faire ce que l’on appelle une revue de littérature. Dans ce cas, le terrain de recherche, ce sont les articles de recherche qui sont utilisés. De manière symétrique aux points évoqués ci-dessus il est donc nécessaire de se demander quels sont les articles qui ont été choisis, quel est le mode de collecte de données et quel traitement a été appliqué ?<br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-5-5" class="outline-4">
+<h4 id="sec-4-5-5">Théories utilisées (hypothèses / cadres d’analyse)</h4>
+<div class="outline-text-4" id="text-4-5-5">
+<p>
+Les théories utilisées sont les travaux de recherches réalisés précédemment qui sont utilisés dans l’article afin de poser des hypothèses ou de faire des propositions. Il est en effet indispensable dans un article de recherche de faire référence aux résultats déjà établis sous peine de faire à nouveau ce qui a déjà été fait.<br >
+<i>Exemples de théories : la théorie de l’agence ; la théorie de la contingence ; la théorie des configurations structurelles.</i><br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-5-6" class="outline-4">
+<h4 id="sec-4-5-6">Limites de la recherche</h4>
+</div>
+<div id="outline-container-sec-4-5-7" class="outline-4">
+<h4 id="sec-4-5-7">Apports pour la pratique / actualité de la question</h4>
+</div>
+</div>
+<div id="outline-container-sec-4-6" class="outline-3">
+<h3 id="sec-4-6">Exemples d'articles de recherche</h3>
+<div class="outline-text-3" id="text-4-6">
+<ul class="org-ul">
+<li>Sponem, S., &amp; Lambert, C. (2016). Exploring differences in budget characteristics, roles and satisfaction: A configurational approach. Management Accounting Research, 30, 47–61. <a href="https://doi.org/10.1016/j.mar.2015.11.003">https://doi.org/10.1016/j.mar.2015.11.003</a><br >
+</li>
+<li>Lambert, C., &amp; Sponem, S. (2012). Roles, Authority and Involvement of the Management Accounting Function: A Multiple Case-study Perspective. European Accounting Review, 21(3), 565–589. <a href="https://doi.org/10.1080/09638180.2011.629415">https://doi.org/10.1080/09638180.2011.629415</a><br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-7" class="outline-3">
+<h3 id="sec-4-7">Qu'est-ce qu'une théorie?</h3>
+<div class="outline-text-3" id="text-4-7">
+<ul class="org-ul">
+<li>La théorie ne s'oppose pas à la pratique!: <i>"Rien n'est plus pratique qu'une bonne théorie" (Kurt Lewin)<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup></i><br >
+</li>
+<li>Une bonne théorie en sciences sociales devrait avoir 2 caractéristiques<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>:<br >
+<ul class="org-ul">
+<li>Une histoire cohérente (qui « fait sens »)<br >
+</li>
+<li>Une histoire conforme aux faits observés<br >
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-8" class="outline-3">
+<h3 id="sec-4-8">Qu'est-ce qu'une revue professionnelle ?</h3>
+<div class="outline-text-3" id="text-4-8">
+</div><div id="outline-container-sec-4-8-1" class="outline-4">
+<h4 id="sec-4-8-1">Des articles à destination des professionnels</h4>
+<div class="outline-text-4" id="text-4-8-1">
+<p>
+Les revues professionnelles sont des émanations d’associations professionnelles qui regroupent des personnes occupant des fonctions proches dans des organisations et qui souhaitent partager leur expérience.<br >
+Les articles issus des revues professionnelles sont (en général) écrits par des professionnels experts du domaine sur lequel porte l’article. Ces spécialistes sont (parfois) rémunérés pour leurs écrits.<br >
+Ces écrits permettent à leurs auteurs de faire le point sur l’évolution des pratiques dans leur organisation ou dans d’autres organisations. Comme les articles issus de la presse, ces articles peuvent notamment vous servir à donner des exemples, à identifier les grands thèmes d’actualité du domaine ou à suivre les évolutions juridiques.<br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-8-2" class="outline-4">
+<h4 id="sec-4-8-2">Une révision « éditoriale »</h4>
+<div class="outline-text-4" id="text-4-8-2">
+<p>
+Ces articles sont utiles car ils reflètent l’état de la connaissance des praticiens mais doivent être utilisés avec précaution car ils ont parfois plus un but commercial qu’un objectif d’information. Ils sont aussi l’occasion pour les auteurs de donner leur opinion ou de légitimer leurs pratiques pour donner une bonne image de leur entreprise (par exemple lorsque leurs auteurs sont des consultants). Ils sont en général uniquement validés par l'éditeur et pas par des réviseurs indépendants.<br >
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-4-9" class="outline-3">
+<h3 id="sec-4-9">Exemples de revues professionnelles</h3>
+<div class="outline-text-3" id="text-4-9">
+<ul class="org-ul">
+<li>Harvard Business Review – www.hbr.org<br >
+</li>
+<li>California Management Review (Berkeley) - <a href="http://cmr.berkeley.edu">http://cmr.berkeley.edu</a><br >
+</li>
+<li>Sloan Management Review (MIT) - <a href="http://sloanreview.mit.edu">http://sloanreview.mit.edu</a><br >
+</li>
+<li>CPA magazine - <a href="https://www.cpacanada.ca/fr/connexion-et-nouvelles/cpa-magazine">https://www.cpacanada.ca/fr/connexion-et-nouvelles/cpa-magazine</a><br >
+</li>
+<li>Strategic finance (IMA) - <a href="http://sfmagazine.com">http://sfmagazine.com</a><br >
+</li>
+<li>Financial Management (CIMA)<br >
+</li>
+<li>Revue Française de Comptabilité (ordre des experts comptables) - <a href="http://revuefrancaisedecomptabilite.fr/">http://revuefrancaisedecomptabilite.fr/</a><br >
+</li>
+<li>Revue gestion - <a href="http://www.revuegestion.ca/">http://www.revuegestion.ca/</a> (<a href="http://www.revuegestion.ca/author/la-chaire-cpa/">http://www.revuegestion.ca/author/la-chaire-cpa/</a>)<br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-10" class="outline-3">
+<h3 id="sec-4-10">Exemples d'article professionnels</h3>
+<div class="outline-text-3" id="text-4-10">
+<ul class="org-ul">
+<li>Jerman, L., &amp; Sponem, S. (2016). <a href="http://chairecontroledegestion.hec.ca/wp-content/uploads/2016/10/JermanSponem-Gestion.pdf">Chefs des finances et contrôleurs. Entre obligation de conformité et leadership stratégique</a>. Gestion, 41(2), 30–33.<br >
+</li>
+<li>Lambert, C., &amp; Sponem, S. (2016). <a href="http://www.revuegestion.ca/informer/les-comptables-en-entreprise-doivent-ils-tous-etre-des-partenaires-daffaires/">Les comptables en entreprise doivent-ils tous être des partenaires d’affaires?</a>  <br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-11" class="outline-3">
+<h3 id="sec-4-11">Entre revues de recherche et revues professionnelles</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+Accounting Perspectives (Canada) - <a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)">http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)</a>1911-3838<br >
+Accounting Horizons (USA) - <a href="http://aaapubs.org/loi/acch?code=aaan-site">http://aaapubs.org/loi/acch?code=aaan-site</a><br >
+Accounting in Europe - <a href="http://www.tandfonline.com/toc/raie20/current">http://www.tandfonline.com/toc/raie20/current</a><br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-12" class="outline-3">
+<h3 id="sec-4-12">Quelles sont les autres sources qui peuvent être utilisées ?</h3>
+<div class="outline-text-3" id="text-4-12">
+</div><div id="outline-container-sec-4-12-1" class="outline-4">
+<h4 id="sec-4-12-1">Articles de presse</h4>
+<div class="outline-text-4" id="text-4-12-1">
+<p>
+Les articles de presse sont en général écrits par des journalistes. Un journaliste rapporte des faits dans l'objectif d'informer le public. Il est censé obéir à des règles déontologiques et notamment de « respecter la vérité » et de « publier seulement les informations dont l’origine est connue ou les accompagner, si c’est nécessaire, des réserves qui s’imposent ». Ces règles ne sont cependant pas inscrites dans la loi<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>.<br >
+Il faut distinguer les articles issus de la presse généraliste des articles issus de la presse spécialisée, parfois très pointus et très documentés.<br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-12-2" class="outline-4">
+<h4 id="sec-4-12-2">Livres et manuels</h4>
+<div class="outline-text-4" id="text-4-12-2">
+<p>
+Plusieurs types d’ouvrages peuvent être distingués : les manuels, les essais, les récits… etc. Selon leur auteur, leur objectif ou leur éditeur ils se rapprochent plus ou moins du style des articles de presse, de revue professionnelle ou des revues de recherche.<br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-12-3" class="outline-4">
+<h4 id="sec-4-12-3">Sites internet</h4>
+<div class="outline-text-4" id="text-4-12-3">
+<p>
+Les ressources disponibles sur Internet peuvent répondre à l’une des catégories exposées ci-dessus. Elles relèvent aussi parfois du simple écrit personnel et sans aucun contrôle (c’est le cas des « blogs » par exemple). Dans ce cas leur pertinence ne tient qu’à la crédibilité que vous accordez à leur auteur. Celle-ci dépend en partie, mais en partie seulement, du parcours de l’auteur, de ses titres, de ses fonctions successives et de ses objectifs.<br >
+L’encyclopédie en ligne Wikipedia (<a href="http://www.wikipedia.org/">http://www.wikipedia.org/</a>) peut constituer une ressource intéressante. Elle est construite de manière collaborative et permet à chacun d’y contribuer. De cette caractéristique vient à la fois sa force (chacun peut améliorer ou corriger les articles) et sa faiblesse (elle n’est pas à l’abris des farceurs ou des idéologues qui souhaitent y faire passer un message).<br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-12-4" class="outline-4">
+<h4 id="sec-4-12-4">Lois et normes : Knotia (<a href="http://libguides.hec.ca/compt">http://libguides.hec.ca/compt</a>)</h4>
+</div>
+</div>
+<div id="outline-container-sec-4-13" class="outline-3">
+<h3 id="sec-4-13">Commment exercer son esprit critiques dans le choix des sources ?</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+Les frontières entre les différents supports ne sont pas totalement étanches. Parfois, des chercheurs ou universitaires écrivent dans la presse ou dans les revues professionnelle et inversement des professionnels écrivent dans les revues de recherche. Par ailleurs, si la position de l’auteur et le support induisent des types d’écrit différents, ils ne préjugent en rien de leur qualité : seul votre esprit critique permettra de faire le tri. Un des critères de crédibilité de ces différents écrits repose sur la capacité des auteurs à citer leurs sources (documents) ou à restituer les exemples utilisés de manière précise ainsi que sur l’articulation logique des arguments.<br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-14" class="outline-3">
+<h3 id="sec-4-14">Comment trouver des ressources adéquates sur mon sujet ?</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+La bibliothèque d'HEC propose de très nombreuses bases de données comprenant des articles de journaux, des articles professionnels et des articles de recherche : <a href="http://www.hec.ca/biblio/">http://www.hec.ca/biblio/</a><br >
+</p>
+<ul class="org-ul">
+<li>Pour les articles de presse: Lexis-Nexis, Factiva et Eureka (<a href="http://libguides.hec.ca/actualite">http://libguides.hec.ca/actualite</a>)<br >
+</li>
+<li>Pour les articles de recherche: Ebsco, ABI Inform (proquest), Cairn, ainsi que les sites des éditeurs (<a href="http://www.hec.ca/biblio/banques-de-donnees/liste-complete.html">http://www.hec.ca/biblio/banques-de-donnees/liste-complete.html</a>)<br >
+</li>
+<li>Au-delà des ressources de la bibliothèque: <a href="https://scholar.google.ca/">https://scholar.google.ca/</a><br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-15" class="outline-3">
+<h3 id="sec-4-15">Trouver des ressources: un exemple</h3>
+<div class="outline-text-3" id="text-4-15">
+<blockquote>
+<p>
+<b>Extraits d'un projet supervisé de maîtrise ès sciences de la gestion soutenu en 2017</b><br >
+"Nous avons décidé d’effectuer une recherche systématique dans des revues de gestion spécialisées grâce auxquelles nous jugions avoir le plus de résultats pertinents.<br >
+La sélection [de revues utilisées] est la suivante: Canadian public administration : revue canadienne, consultée à l’aide de la base de données Academic Search Complete [&#x2026;]<br >
+Nous avons utilisé des mots-clés pour chercher dans les bases de données afin de bien cerner la problématique qui serait traitée et formuler une première question de recherche. Les premiers mots-clés étaient [XXX]. Une fois la problématique bien définie, nous avons procédé par recherche systématique des revues sélectionnées. Tous les articles depuis l’année 2000 à aujourd’hui ont donc été passés en revue (lecture des résumés et introductions si nécessaire) afin d’être certains de ne passer à côté d’aucun article. [&#x2026;]<br >
+La première sélection s’est élevée à 43 articles, puis après lecture de ceux-ci, seuls 25 ont été retenus car ils étaient considérés plus pertinents pour répondre à la problématique. Par la suite, pour compléter les recherches, chaque bibliographie des articles lus a été passée en revue afin d’élargir les sources. De même, si les articles choisis étaient cités par d’autres auteurs, nous allions regarder les travaux de ces derniers. Cela a amené la lecture et l’utilisation de 17 articles ou travaux additionnels. Par ailleurs, des mots-clés supplémentaires ont également été utilisés sur internet ou sur d’autres bases de données pour aider à compléter certaines parties qui manquaient de corps ou pour vérifier si des ajouts intéressants étaient pertinents. Les mots choisis sont les suivants : [XXX] ».<br >
+Pour finir, les articles finalement utilisés ont été mis en relation les uns avec les autres, regroupés selon les deux thèmes identifiés et confrontés les uns aux autres afin de souligner la divergence des points de vue existants parmi les spécialistes. Il est à noter que pour certaines parties, la littérature n’était pas toujours très fournie et le consensus était rare. Le sujet est encore en pleine évolution ce qui devrait enrichir la littérature dans le futur.<br >
+</p>
+</blockquote>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5">Écrire la revue de littérature</h2>
+<div class="outline-text-2" id="text-5">
+</div><div id="outline-container-sec-5-1" class="outline-3">
+<h3 id="sec-5-1">Comment rédiger la revue de littérature?</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+La revue de littérature ne doit pas être une succession de résumés d'article. Il faut la problématiser, par exemple :<br >
+</p>
+<ul class="org-ul">
+<li>en fonction des théories ou des thèmes abordés<br >
+</li>
+<li>en fonction des méthodes utilisées par les articles<br >
+</li>
+<li>en fonction des périodes historiques<br >
+</li>
+</ul>
+<p>
+Dans une revue de littérature, il faut mettre des tableaux de synthèse et des figures. Il faut se limiter au strict minimum nécessaire pour traiter votre sujet (parfois, il faut savoir supprimer ce qui n'est pas réellement utile)<br >
+</p>
+</div>
+</div>
+<div id="outline-container-sec-5-2" class="outline-3">
+<h3 id="sec-5-2">Pourquoi citer ses sources?</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Par honnêteté intellectuelle et pour crédibiliser votre argumentation il est indispensable :<br >
+</p>
+<ul class="org-ul">
+<li>de citer les références (auteur, titre de l’ouvrage, éditeur) des idées que vous empruntez à vos lectures<br >
+</li>
+<li>de mettre entre guillemets les passages empruntés tels quels<br >
+</li>
+</ul>
+<p>
+Sur ce sujet, voir:<br >
+</p>
+<ul class="org-ul">
+<li><a href="http://libguides.hec.ca/citer">http://libguides.hec.ca/citer</a><br >
+</li>
+<li><a href="http://www.hec.ca/etudiant_actuel/mon_programme/plagiat.html">http://www.hec.ca/etudiant_actuel/mon_programme/plagiat.html</a><br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-5-3" class="outline-3">
+<h3 id="sec-5-3">Comment citer de manière adéquate les sources utilisées ?</h3>
+<div class="outline-text-3" id="text-5-3">
+<ul class="org-ul">
+<li>Citation dans le corps du texte par "auteurs dates" ou par notes de bas de page : <a href="http://libguides.hec.ca/citer/comment">http://libguides.hec.ca/citer/comment</a><br >
+</li>
+<li>Faire une bibliographie à la fin<br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-5-4" class="outline-3">
+<h3 id="sec-5-4">Quel logiciel utiliser collecter, consulter et citer ses sources ?</h3>
+<div class="outline-text-3" id="text-5-4">
+<ul class="org-ul">
+<li>La bibliothèque propose d'utiliser Endnote. Cependant Endnote n'est pas gratuit. Une fois que vous aurez fini vos études, vous n'aurez donc plus accès à votre base.<br >
+</li>
+<li>Je vous suggère d'utiliser Zotero, un logiciel open source. Vous pouvez l'installer dans le navigateur firefox ou comme un logiciel indépendant.<br >
+</li>
+</ul>
+<p>
+<b>Tutoriels</b> <br >
+</p>
+<ul class="org-ul">
+<li><a href="https://www.zotero.org/support/fr/quick_start_guide">https://www.zotero.org/support/fr/quick_start_guide</a><br >
+</li>
+<li><a href="http://research.library.gsu.edu/zotero">http://research.library.gsu.edu/zotero</a><br >
+</li>
+<li><a href="http://ideophone.org/slides-for-a-hands-on-zotero-workshop/">http://ideophone.org/slides-for-a-hands-on-zotero-workshop/</a><br >
+</li>
+<li><a href="http://www.bib.umontreal.ca/lgb/zotero/tutoriel/1-installer-zotero.htm">http://www.bib.umontreal.ca/lgb/zotero/tutoriel/1-installer-zotero.htm</a><br >
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6">Collecter les données</h2>
+<div class="outline-text-2" id="text-6">
+</div><div id="outline-container-sec-6-1" class="outline-3">
+<h3 id="sec-6-1">Comment se préparer à un entretien?</h3>
+<div class="outline-text-3" id="text-6-1">
+<p>
+Au-delà de la construction du guide d'entretien, il faut se mettre dans les meilleures conditions pour réaliser l'entrevue. La veille de l'entretien, il est ainsi nécessaire de :<br >
+</p>
+<ul class="org-ul">
+<li>Confirmer le lieu et l'heure de l'entretien<br >
+</li>
+<li>Vérifier que l'on a des vêtements adaptés pour réaliser l'entretien. Sur ce point il faut trouver un équilibre entre des vêtements dans lesquels vous êtes à l'aise et des vêtements que vous pensez pouvoir porter dans l'organisation où vous vous rendez (Faut-il un costume / tailleur? Pour les hommes faut-il une cravate?)<br >
+</li>
+<li>Se renseigner de manière assez exhaustive sur l'interlocuteur et l'organisation (articles de presse, site internet, rapport annuel, etc.)<br >
+</li>
+<li>Vérifier que l'enregistreur est en état de marche, que les piles de l'enregistreur sont rechargées, qu'il reste de la mémoire pour enregister et que l'on maitrise parfaitement le fonctionnement de l'enregistreur<br >
+</li>
+<li>Imprimer le guide d'entretien<br >
+</li>
+</ul>
+<p>
+Il est indispensable d'être à l'heure à l'entretien car, dans beaucoup d'organisations, les personnes interviewées n'auront pas plus que le temps prévu initialement à vous accorder. Toute minute de retard est donc du temps perdu pour l'entretien. Le jour de l'entretien, il faut donc :<br >
+</p>
+<ul class="org-ul">
+<li>Se rendre sur le lieu de l'entretien avec au moins 30 minutes d'avance (et attendre dans un café à quelques pas ou dans un hall)<br >
+</li>
+<li>Se rendre au à l'accueil avec 10 à 15 minutes d'avance (parfois, il est difficile de se repérer dans les étages et les bureaux)<br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-6-2" class="outline-3">
+<h3 id="sec-6-2">Comment réaliser une retranscription d'entretien?</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+La retranscription à faire est intégrale et "presque" mot à mot, c'est à dire qu'il faut retranscrire exactement ce que dit l'interviewé, avec quelques aménagements pour s'assurer que la phrase a du sens à l'écrit. Il faut mettre de la ponctuation (points et virgules) le plus souvent possible même si ce n'est pas toujours explicite dans le discours de l'interviewé, de manière à respecter le rythme de la parole.<br >
+Si la personne qui conduit l'entrevue (l’interviewer) part dans de longues diatribes, la retranscription intégrale est inutile, il suffit d'avoir l'essentiel (en général, toute la mise en contexte que l'interviewer fait au début de l'interview n'est pas utile) mais les paroles de l'interviewé sont importantes.<br >
+</p>
+<blockquote>
+<p>
+<b>Chaque entretien devra prendre la forme suivante</b> <br >
+Personnes interviewée :<br >
+Interviewer :<br >
+Date :<br >
+Lieu :<br >
+I (pour interviewer) : blabla blabla #HH:MM:SS#<br >
+R (pour répondant) : blablablabla #HH:MM:SS#<br >
+</p>
+</blockquote>
+<p>
+Remarques :<br >
+</p>
+<ul class="org-ul">
+<li>Si des parties sont inaudibles, elles seronts indiquées de la manière suivante : [&#x2026;]<br >
+</li>
+<li>Lorsque des phrases sont laissée en suspens, il faudra mettre : &#x2026; (on n'abusera cependant pas de l'utilisation des &#x2026;, ces derniers seront réservés à des temps longs).<br >
+</li>
+<li>Il est aussi inutile de retranscrire tous les tics de langage "heu". Cela rend la lecture difficile et cela n'aide pas l'analyse.<br >
+</li>
+</ul>
+<blockquote>
+<p>
+Chaque entretien sera mis dans un nouveau fichier qui porte le nom suivant :<br >
+ANNEE-MOIS-Nom-Fonction<br >
+par exemple : 2016-12-04-Durant-DirecteurAudit<br >
+</p>
+</blockquote>
+<ul class="org-ul">
+<li>Une fois la retranscription réalisée, une relecture doit être faite à la fin pour s'assurer de limiter les fautes d'orthographe ou les phrases qui n'ont pas de sens.<br >
+</li>
+<li>Pour faciliter la retranscription, un logiciel peut être utilisé.<br >
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-6-3" class="outline-3">
+<h3 id="sec-6-3">Quel logiciel utiliser pour réaliser un entretien?</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+Retranscrire un entretien est une tâche fastidieuse. Cela peut prendre de 3 à 6 heures pour retranscrire une heure d'entretien.<br >
+Un logiciel spécialisé peut être utilisé pour faciliter ce travail. Le logiciel n'automatise pas la retranscription, mais il la facilite :<br >
+</p>
+<ul class="org-ul">
+<li>il permet de ralentir la lecture pour faciliter la retranscription;<br >
+</li>
+<li>il permet d'avoir des raccourcis pour arrêter la lecture, retourner en arrière ou aller en avant;<br >
+</li>
+<li>il permet d'automatiser l'inscription du locuteur et du temps (c'est-à-à-dire de la minute à laquelle les notes ont été prises, ce qui permet ensuite de retourner écouter l'enregistrement en cas de besoin).<br >
+</li>
+</ul>
+<p>
+Le logiciel suivant est gratuit et pratique :<br >
+<a href="http://www.e-werkzeug.eu/index.php/en/products/easytranscript">http://www.e-werkzeug.eu/index.php/en/products/easytranscript</a> (consignes d'installation ici : <a href="http://www.e-werkzeug.eu/index.php/en/installationsguide">http://www.e-werkzeug.eu/index.php/en/installationsguide</a>)<br >
+Le logiciel f4transkript semble constituer une alternative conviviale (payante mais peu chère) : <a href="https://www.audiotranskription.de/english/f4.htm">https://www.audiotranskription.de/english/f4.htm</a><br >
+Attention, je vous conseille de localiser le projet dans une dropbox afin d'éviter toute surprise (ou de faire des sauvegardes du fichier rtf souvent afin d'éviter toute perte de données en cas de problème du logiciel).<br >
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7">Analyser les données</h2>
+<div class="outline-text-2" id="text-7">
+</div><div id="outline-container-sec-7-1" class="outline-3">
+<h3 id="sec-7-1">Comment coder les données qualitative?</h3>
+<div class="outline-text-3" id="text-7-1">
+<p>
+Pour le codage, les textes suivants peuvent être utiles :<br >
+</p>
+<ul class="org-ul">
+<li><a href="https://us.sagepub.com/sites/default/files/upm-binaries/43454_10.pdf">https://us.sagepub.com/sites/default/files/upm-binaries/43454_10.pdf</a><br >
+</li>
+<li><a href="http://onlineqda.hud.ac.uk/Intro_QDA/what_is_qda.php">http://onlineqda.hud.ac.uk/Intro_QDA/what_is_qda.php</a><br >
+</li>
+<li>Mayring, P. (2014). Qualitative content analysis: theoretical foundation, basic procedures and software solution (p. 143). Klagenfurt. Retrieved from <a href="http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395173">http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395173</a> (cette référence va trop loin, mais cela fait bien le tour des possibiltés)<br >
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8">Idées de sujets</h2>
+<div class="outline-text-2" id="text-8">
+<ul class="org-ul">
+<li>Entrevues avec des chefs des finances autour de 3 semaine de leur agenda afin de comprendre ce que fait un chef des finances<br >
+</li>
+<li>Études de cas (3 ou 4 entretiens) sur la manière dont les chefs des finances et contrôleurs pilotent les projets d'investissement en TI<br >
+</li>
+<li>Big data et business analytics: quels enjeux pour les comptables?<br >
+</li>
+<li>Mise en place de l'IFRS 15<br >
+</li>
+<li>Normes et guidelines dans le domaine de la comptabilité de management: une comparaison internationale<br >
+</li>
+<li>Mise en place de systèmes de mesure de la performance dans les OSBL / le secteur public (université)<br >
+</li>
+<li>Sujets en histoire de la comptabilité (accès à des archives ou à des données secondaires)<br >
+</li>
+</ul>
+<blockquote>
+<p>
+Exemple : <a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=140MPKeOvgOomSwnuLtrjw6w5vefm50gcXt87va8HKKI&amp;font=Default&amp;lang=fr&amp;initial_zoom=4&amp;amp">Bouaouiche, N. (2016). Histoire de la comptabilité de gestion au Canada : quelles leçons pour l’avenir? (Projet supervisé de maîtrise ès sciences de la gestion). HEC Montréal.</a><br >
+</p>
+</blockquote>
+</div>
+</div>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum" href="#fnr.1">1</a></sup> <p class="footpara">
+p. 169 - Lewin, K., &amp; Cartwright, D. (1951). Field Theory in Social Science: Selected Theoretical Papers. New York: Harper &amp; Brothers<br >
+</p></div>
+
+<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum" href="#fnr.2">2</a></sup> <p class="footpara">
+Becker, H. S. (2002). Les ficelles du métier. Comment conduire sa recherche en sciences sociales. La Découverte.<br >
+</p></div>
+
+<div class="footdef"><sup><a id="fn.3" name="fn.3" class="footnum" href="#fnr.3">3</a></sup> <p class="footpara">
+Déclaration des devoirs et des droits des journalistes, Munich, 1971.<br >
+</p></div>
+
+
+</div>
+</div></div><div class="col-md-3"><nav id="table-of-contents">
+<div id="text-table-of-contents" class="bs-docs-sidebar">
+<ul class="nav">
+<li><a href="#sec-1"></a></li>
+<li><a href="#sec-2">Introduction</a></li>
+<li><a href="#sec-3">Le projet</a>
+<ul class="nav">
+<li><a href="#sec-3-1">Qu'est-ce qu'un projet supervisé ?</a></li>
+<li><a href="#sec-3-2">Qu'est-ce qu'un mémoire?</a></li>
+<li><a href="#sec-3-3">Qu'est-ce qu'un mandat de recherche?</a></li>
+<li><a href="#sec-3-4">Comment choisir un sujet ?</a></li>
+<li><a href="#sec-3-5">Quelle forme doit prendre le document ?</a></li>
+<li><a href="#sec-3-6">Que mettre dans l'introduction ?</a></li>
+<li><a href="#sec-3-7">Par quoi commencer?</a></li>
+</ul>
+</li>
+<li><a href="#sec-4">Identifier et choisir les sources d'information pour faire la revue de littérature</a>
+<ul class="nav">
+<li><a href="#sec-4-1">Pourquoi faire une revue de littérature ?</a></li>
+<li><a href="#sec-4-2">Quelles sont les ressources qui peuvent être mobilisées dans la revue de littérature?</a></li>
+<li><a href="#sec-4-3">Qu'est-ce qu'une revue académique?</a></li>
+<li><a href="#sec-4-4">Exemples de revues de recherche</a></li>
+<li><a href="#sec-4-5">Comment lire un article de recherche ?</a></li>
+<li><a href="#sec-4-6">Exemples d'articles de recherche</a></li>
+<li><a href="#sec-4-7">Qu'est-ce qu'une théorie?</a></li>
+<li><a href="#sec-4-8">Qu'est-ce qu'une revue professionnelle ?</a></li>
+<li><a href="#sec-4-9">Exemples de revues professionnelles</a></li>
+<li><a href="#sec-4-10">Exemples d'article professionnels</a></li>
+<li><a href="#sec-4-11">Entre revues de recherche et revues professionnelles</a></li>
+<li><a href="#sec-4-12">Quelles sont les autres sources qui peuvent être utilisées ?</a></li>
+<li><a href="#sec-4-13">Commment exercer son esprit critiques dans le choix des sources ?</a></li>
+<li><a href="#sec-4-14">Comment trouver des ressources adéquates sur mon sujet ?</a></li>
+<li><a href="#sec-4-15">Trouver des ressources: un exemple</a></li>
+</ul>
+</li>
+<li><a href="#sec-5">Écrire la revue de littérature</a>
+<ul class="nav">
+<li><a href="#sec-5-1">Comment rédiger la revue de littérature?</a></li>
+<li><a href="#sec-5-2">Pourquoi citer ses sources?</a></li>
+<li><a href="#sec-5-3">Comment citer de manière adéquate les sources utilisées ?</a></li>
+<li><a href="#sec-5-4">Quel logiciel utiliser collecter, consulter et citer ses sources ?</a></li>
+</ul>
+</li>
+<li><a href="#sec-6">Collecter les données</a>
+<ul class="nav">
+<li><a href="#sec-6-1">Comment se préparer à un entretien?</a></li>
+<li><a href="#sec-6-2">Comment réaliser une retranscription d'entretien?</a></li>
+<li><a href="#sec-6-3">Quel logiciel utiliser pour réaliser un entretien?</a></li>
+</ul>
+</li>
+<li><a href="#sec-7">Analyser les données</a>
+<ul class="nav">
+<li><a href="#sec-7-1">Comment coder les données qualitative?</a></li>
+</ul>
+</li>
+<li><a href="#sec-8">Idées de sujets</a></li>
+</ul>
+</div>
+</nav>
+</div></div></div>
+</body>
+</html>
