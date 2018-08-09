@@ -1,16 +1,17 @@
-#+TITLE: Faire un projet supervisé ou un mémoire - Questions fréquemment posées (FAQ)
+#+TITLE: Faire une revue de littérature - /Questions fréquemment posées (FAQ)/
 #+SUBTITLE: https://samspo.github.io/Faq
 #+AUTHOR: Samuel Sponem, Professeur Agrégé, HEC Montréal
 #+AUTHOR: http://chairecontroledegestion.hec.ca
-#+DATE:
+#+DATE: 11 mai 2017
 #+OPTIONS: \n:true whn:0 H:2
 #+LATEX_CLASS: beamer
 #+LATEX_CLASS_OPTIONS: [presentation]
-                                                          
+
+* Nom                                                              :noexport:
 /[[http://chairecontroledegestion.hec.ca/][Samuel Sponem, Professeur Agrégé, HEC Montréal]]/
 /Mise à jour: {{{time(%Y-%m-%d)}}}/
 
-* Introduction
+* Introduction                                                     :noexport:
 Ce document est une liste des /FAQ (Frequently Asked Questions)/ des étudiants lorsqu'ils réalisent un mémoire ou un projet supervisé à HEC Montréal.
 
 La première chose à faire avant de se lancer dans un [[Qu'est-ce qu'un projet supervisé ?][projet supervisé]] ou un [[Qu'est-ce qu'un mémoire?][mémoire]] est de prendre connaissance des règles qui encadrent ce travail. Ceci vous permettra d'avoir une meilleure idée de ce que vous avez envie de faire et facilitera votre recherche d'un superviseur. Il faut ensuite faire une [[Identifier et choisir les sources d'information pour faire la revue de littérature][revue de littérature]] et, parfois, [[Collecter les données][collecter]] et [[Analyser les données][analyser des données]].
@@ -27,7 +28,7 @@ La première chose à faire avant de se lancer dans un [[Qu'est-ce qu'un projet 
  - [[Qu'est-ce qu'un mandat de recherche?][Réalisation d’un mandat spécifique de recherche]]
  - Avis d’expert: analyse  d’une  réglementation  proposée  (par  exemple,  l’analyse  d’un  exposé-sondage  en comptabilité) ou sur une problématique spécifique de gestion
  - Projet entrepreneurial
-** Qu'est-ce qu'un mémoire?
+** Qu'est-ce qu'un mémoire? :noexport:
 De nombreuses informations sur le mémoire peuvent être trouvées ici: 
  http://www.hec.ca/etudiant_actuel/mon_programme/msc/memoire/index.html
 ** Qu'est-ce qu'un mandat de recherche?
@@ -35,7 +36,7 @@ Un "livrable bien défini", par exemple :
 - une recension, une analyse et une synthèse de la littérature pertinente à un domaine particulier   
 - la participation à la construction ou au traitement d'une base de données
 - l’estimation ou le calibrage d'un modèle à partir de données empiriques 
-- le développement d'outils pouvant servir à la collecte ou à l’analyse de données (questionnaire, guide d’entrevue, etc.)
+- le développement d'outils pouvant servir à la collecte ou à l’analyse de données (questionnaire, grille d’entrevue, etc.)
 - l'adaptation d'une étude à d'autres données ou à d'autres environnements
 ** Comment choisir un sujet ?
 - Prendre un sujet donné par un professeur: permet de s'insérer dans un programme de recherche et d'être guidé
@@ -49,7 +50,7 @@ Pour un mémoire ou un projet supervisé "classique" le plus simple est bien sou
 4. Résultats
 5. Discussion et conclusion
 L'objectif est de poser une question dans l'introduction à laquelle le mémoire tente d'apporter une réponse à partir d'éléments théoriques (lectures)  et/ou empiriques (données collectés).
-** Que mettre dans l'introduction ?
+** Que mettre dans l'introduction ?                                :noexport:
 L'introduction doit permettre de justifier le projet et d'annoncer le travail qui est développé dans le document. On doit y trouver :
 1. Une accroche qui permet de montrer l'intérêt du sujet
 2. Les définitions importantes pour faire le travail ainsi la mise en évidence d'un "problème" (ce qu'on appelle en général une problématique)
@@ -80,46 +81,23 @@ Les lectures n’ont de sens que si elles s’exercent de manière critique. Pou
 - documentaires, films, romans...
 ** Qu'est-ce qu'une revue académique?
 *** Une révision en "double aveugle"
-Dans les revues de recherches, les articles sont écrits par des universitaires ou chercheurs et sont évalués de manière anonyme par un comité de lecture constitué de pairs (c’est-à-dire par des semblables qui sont aussi enseignants / chercheurs). Ces pairs sont (normalement) choisis par l’éditeur de la revue pour leurs compétences dans le domaine. En fonction de la qualité de l’article, les évaluateurs anonymes l’acceptent, demandent des révisions ou le refusent. Les auteurs des revues de recherche ne sont pas rémunérés pour leurs écrits. En revanche leur évaluation en tant que chercheur dépend des articles qu’ils ont réussit à publier dans des revues de recherche.
-Les communication dans les colloques académiques (par exemple les colloques de l’Associations Francophone de Comptabilité, disponibles sur le site www.afc-cca.com) se rapprochent des articles des revues de recherches (mais certains colloques sont plus sélectifs que d’autres en ce qui concernent la rigueur scientifique).
 *** Des articles à destination des autres chercheurs
-Il existe deux types d’articles de recherche : les articles qui cherchent à décrire la réalité (grâce à des enquêtes, l’utilisation de bases de données ou des expérimentations) et les articles qui proposent des synthèses des recherches antérieures (ces articles sont aussi appelés « revue de littérature »).
-Ces articles peuvent être utilisés pour faire l’état des connaissances ou des pratiques à un moment donné sur un sujet donné. Leur intérêt est de permettre une vision critique du sujet abordé. Ils ont aussi une certaine prétention à l’exhaustivité. De plus, les protocoles de recherches utilisés doivent garantir une certaine validité aux données empiriques qui y sont présentées. En revanche, de par le temps de publication, ces articles ne sont pas toujours au fait des dernières évolutions. Par ailleurs, ils emploient un vocabulaire spécifique aux chercheurs qui peut paraître déroutant au premier abord.
 ** Exemples de revues de recherche
-Revue Canadienne
 - Contemporary Accounting Research - http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1911-3846
 - Accounting Organizations and Society - http://www.sciencedirect.com/science/journal/03613682
 - Comptabilité, Contrôle, Audit - https://www.cairn.info/revue-comptabilite-controle-audit.htm
 - The Accounting Review - http://aaapubs.org/loi/accr?code=aaan-site
 - Management Accounting Research - http://www.sciencedirect.com/science/journal/10445005
 - Auditing: A Journal of Practice & Theory -  http://aaajournals.org/loi/ajpt?code=aaan-site
-- Journal of Accounting Research - http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-679X
-
- Journal of Accounting and Economics, European Accounting Review, Accounting Auditing & Accountability Journal, Critical Perspectives on Accounting, Journal of Applied Accounting Research…
+** Exemples de revues de recherche
+- Autres : Journal of Accounting Research, Journal of Accounting and Economics, European Accounting Review, Accounting Auditing & Accountability Journal, Critical Perspectives on Accounting, Journal of Applied Accounting Research…
 - Voir liste ici : http://www.harzing.com/download/jql_field.pdf (section F&A)
 ** Comment lire un article de recherche ?
-L’article de recherche est  ne reflète (normalement) pas l’opinion de ses auteurs mais le résultat de leurs observations sur un « terrain de recherche ». 
-Ce type d’article est parfois écrit dans un style un peu abscons pour le non initié, car il utilise des termes qui n’appartiennent pas toujours au langage courant. Pour lire efficacement un article de recherche on peut essayer de repérer les éléments suivants :
 *** Question de recherche
-La question de recherche n’est pas toujours formulée explicitement dans l’article. Il est cependant toujours possible de formuler la question à laquelle la recherche permet de répondre.
-/Exemples de questions de recherche : Quels sont les systèmes de contrôle qui favorisent l’apprentissage ? Quels sont les systèmes d’information les plus efficaces dans un contexte donné ? Quels sont les choix comptables réalisés par les entreprises pour comptabiliser leurs actifs financiers ?/
-*** Postulats (principes non démontrés)
-Les postulats sous-jacents traduisent les présupposés que l’article considère comme acquis et qui ne sont pas démontrés. Toute recherche conduit en effet à faire des choix et repose donc sur des postulats. Ces postulats sont le plus souvent implicites ; ils sont rarement mis en évidence par les auteurs et peuvent porter sur les méthodes de recherche ou sur les théories utilisées.
-/Exemples de postulats : il est possible de déterminer les pratiques budgétaires d’une entreprise à partir des réponses données à un questionnaire par un contrôleur de gestion ; il est possible à partir de l’échantillon retenu d’en déduire le comportement de toute les entreprises ; la comptabilité ne sert qu’aux investisseurs ; l’entreprises est une somme de contrats./
+*** Postulats (principes non démontrés) :noexport:
 *** Résultats (réponse à la question de recherche)
-Les résultats obtenus peuvent être de deux ordres :
-1. La validation ou le rejet d’hypothèses qui ont été posées à partir de la théorie ;
-2. Des propositions issues du terrain de recherche ou de la revue de littérature réalisée (celles-ci ne sont pas toujours formulées de manière explicite et peuvent être résumées dans une figure ou un tableau, par exemple)
-/Exemples de résultats : Cette recherche à permis de valider l’hypothèse selon laquelle le changement du système de contrôle de gestion permet de faire évoluer la stratégie de cette organisation ; À partir de cette recherche, il est possible de faire la proposition suivante : le mode de financement d’une entreprise à un impact fort sur les choix comptables qu’elle réalise./
 *** Méthode utilisée
-  La méthode se caractérise par :
-  1. La ou les organisations auprès desquelles les données ont été collectées et la raison pour laquelle elles ont été choisies ;
-  2. Le mode de collecte de données (par entretiens, par observation, à partir de bases de données financières, à partir de rapports annuels, à partir d’articles de presse, à partir d’archives historiques, etc.)
-  3. Le traitement qui a été appliqué à ces données (traitement statistique, analyse de contenu, comparaison des cas, etc.)
-  Il peut arriver qu’un article de recherche ne fasse référence à aucun terrain de recherche. Il s’appuie alors sur d’autres articles de recherche pour faire ce que l’on appelle une revue de littérature. Dans ce cas, le terrain de recherche, ce sont les articles de recherche qui sont utilisés. De manière symétrique aux points évoqués ci-dessus il est donc nécessaire de se demander quels sont les articles qui ont été choisis, quel est le mode de collecte de données et quel traitement a été appliqué ?
 *** Théories utilisées (hypothèses / cadres d’analyse)
-Les théories utilisées sont les travaux de recherches réalisés précédemment qui sont utilisés dans l’article afin de poser des hypothèses ou de faire des propositions. Il est en effet indispensable dans un article de recherche de faire référence aux résultats déjà établis sous peine de faire à nouveau ce qui a déjà été fait.
-/Exemples de théories : la théorie de l’agence ; la théorie de la contingence ; la théorie des configurations structurelles./
 *** Limites de la recherche
 *** Apports pour la pratique / actualité de la question
 ** Exemples d'articles de recherche
@@ -132,13 +110,9 @@ Les théories utilisées sont les travaux de recherches réalisés précédemmen
   - Une histoire conforme aux faits observés
 ** Qu'est-ce qu'une revue professionnelle ?
 *** Des articles à destination des professionnels
-Les revues professionnelles sont des émanations d’associations professionnelles qui regroupent des personnes occupant des fonctions proches dans des organisations et qui souhaitent partager leur expérience.
-Les articles issus des revues professionnelles sont (en général) écrits par des professionnels experts du domaine sur lequel porte l’article. Ces spécialistes sont (parfois) rémunérés pour leurs écrits. 
-Ces écrits permettent à leurs auteurs de faire le point sur l’évolution des pratiques dans leur organisation ou dans d’autres organisations. Comme les articles issus de la presse, ces articles peuvent notamment vous servir à donner des exemples, à identifier les grands thèmes d’actualité du domaine ou à suivre les évolutions juridiques.
 *** Une révision « éditoriale »
-Ces articles sont utiles car ils reflètent l’état de la connaissance des praticiens mais doivent être utilisés avec précaution car ils ont parfois plus un but commercial qu’un objectif d’information. Ils sont aussi l’occasion pour les auteurs de donner leur opinion ou de légitimer leurs pratiques pour donner une bonne image de leur entreprise (par exemple lorsque leurs auteurs sont des consultants). Ils sont en général uniquement validés par l'éditeur et pas par des réviseurs indépendants.
 ** Exemples de revues professionnelles
-- Harvard Business Review – http://www.hbr.org
+- Harvard Business Review – www.hbr.org
 - California Management Review (Berkeley) - http://cmr.berkeley.edu
 - Sloan Management Review (MIT) - http://sloanreview.mit.edu
 - CPA magazine - https://www.cpacanada.ca/fr/connexion-et-nouvelles/cpa-magazine
@@ -149,19 +123,14 @@ Ces articles sont utiles car ils reflètent l’état de la connaissance des pra
 ** Exemples d'article professionnels
 - Jerman, L., & Sponem, S. (2016). [[http://chairecontroledegestion.hec.ca/wp-content/uploads/2016/10/JermanSponem-Gestion.pdf][Chefs des finances et contrôleurs. Entre obligation de conformité et leadership stratégique]]. Gestion, 41(2), 30–33.
 - Lambert, C., & Sponem, S. (2016). [[http://www.revuegestion.ca/informer/les-comptables-en-entreprise-doivent-ils-tous-etre-des-partenaires-daffaires/][Les comptables en entreprise doivent-ils tous être des partenaires d’affaires?]]  
-** Entre revues de recherche et revues professionnelles
+** Entre revues de recherche et revues professionnelles            :noexport:
 Accounting Perspectives (Canada) - http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1911-3838
 Accounting Horizons (USA) - http://aaapubs.org/loi/acch?code=aaan-site
 Accounting in Europe - http://www.tandfonline.com/toc/raie20/current
 ** Quelles sont les autres sources qui peuvent être utilisées ?
 *** Articles de presse
-Les articles de presse sont en général écrits par des journalistes. Un journaliste rapporte des faits dans l'objectif d'informer le public. Il est censé obéir à des règles déontologiques et notamment de « respecter la vérité » et de « publier seulement les informations dont l’origine est connue ou les accompagner, si c’est nécessaire, des réserves qui s’imposent ». Ces règles ne sont cependant pas inscrites dans la loi[fn:3]. 
-Il faut distinguer les articles issus de la presse généraliste des articles issus de la presse spécialisée, parfois très pointus et très documentés.
 *** Livres et manuels
-Plusieurs types d’ouvrages peuvent être distingués : les manuels, les essais, les récits… etc. Selon leur auteur, leur objectif ou leur éditeur ils se rapprochent plus ou moins du style des articles de presse, de revue professionnelle ou des revues de recherche.
 *** Sites internet
-Les ressources disponibles sur Internet peuvent répondre à l’une des catégories exposées ci-dessus. Elles relèvent aussi parfois du simple écrit personnel et sans aucun contrôle (c’est le cas des « blogs » par exemple). Dans ce cas leur pertinence ne tient qu’à la crédibilité que vous accordez à leur auteur. Celle-ci dépend en partie, mais en partie seulement, du parcours de l’auteur, de ses titres, de ses fonctions successives et de ses objectifs.
-L’encyclopédie en ligne Wikipedia (http://www.wikipedia.org/) peut constituer une ressource intéressante. Elle est construite de manière collaborative et permet à chacun d’y contribuer. De cette caractéristique vient à la fois sa force (chacun peut améliorer ou corriger les articles) et sa faiblesse (elle n’est pas à l’abris des farceurs ou des idéologues qui souhaitent y faire passer un message).
 *** Lois et normes : Knotia (http://libguides.hec.ca/compt)
 ** Commment exercer son esprit critiques dans le choix des sources ? :noexport:
 Les frontières entre les différents supports ne sont pas totalement étanches. Parfois, des chercheurs ou universitaires écrivent dans la presse ou dans les revues professionnelle et inversement des professionnels écrivent dans les revues de recherche. Par ailleurs, si la position de l’auteur et le support induisent des types d’écrit différents, ils ne préjugent en rien de leur qualité : seul votre esprit critique permettra de faire le tri. Un des critères de crédibilité de ces différents écrits repose sur la capacité des auteurs à citer leurs sources (documents) ou à restituer les exemples utilisés de manière précise ainsi que sur l’articulation logique des arguments.
@@ -170,15 +139,16 @@ La bibliothèque d'HEC propose de très nombreuses bases de données comprenant 
 - Pour les articles de presse: Lexis-Nexis, Factiva et Eureka (http://libguides.hec.ca/actualite)
 - Pour les articles de recherche: Ebsco, ABI Inform (proquest), Cairn, ainsi que les sites des éditeurs (http://www.hec.ca/biblio/banques-de-donnees/liste-complete.html)
 - Au-delà des ressources de la bibliothèque: https://scholar.google.ca/
-** Trouver des ressources: un exemple
-#+BEGIN_QUOTE
+** Trouver des ressources: un exemple :noexport:
 *Extraits d'un projet supervisé de maîtrise ès sciences de la gestion soutenu en 2017*
 "Nous avons décidé d’effectuer une recherche systématique dans des revues de gestion spécialisées grâce auxquelles nous jugions avoir le plus de résultats pertinents. 
 La sélection [de revues utilisées] est la suivante: Canadian public administration : revue canadienne, consultée à l’aide de la base de données Academic Search Complete [...]
+** Trouver des ressources: un exemple :noexport:
 Nous avons utilisé des mots-clés pour chercher dans les bases de données afin de bien cerner la problématique qui serait traitée et formuler une première question de recherche. Les premiers mots-clés étaient [XXX]. Une fois la problématique bien définie, nous avons procédé par recherche systématique des revues sélectionnées. Tous les articles depuis l’année 2000 à aujourd’hui ont donc été passés en revue (lecture des résumés et introductions si nécessaire) afin d’être certains de ne passer à côté d’aucun article. [...]
-La première sélection s’est élevée à 43 articles, puis après lecture de ceux-ci, seuls 25 ont été retenus car ils étaient considérés plus pertinents pour répondre à la problématique. Par la suite, pour compléter les recherches, chaque bibliographie des articles lus a été passée en revue afin d’élargir les sources. De même, si les articles choisis étaient cités par d’autres auteurs, nous allions regarder les travaux de ces derniers. Cela a amené la lecture et l’utilisation de 17 articles ou travaux additionnels. Par ailleurs, des mots-clés supplémentaires ont également été utilisés sur internet ou sur d’autres bases de données pour aider à compléter certaines parties qui manquaient de corps ou pour vérifier si des ajouts intéressants étaient pertinents. Les mots choisis sont les suivants : [XXX].
-Pour finir, les articles finalement utilisés ont été mis en relation les uns avec les autres, regroupés selon les deux thèmes identifiés et confrontés les uns aux autres afin de souligner la divergence des points de vue existants parmi les spécialistes. Il est à noter que pour certaines parties, la littérature n’était pas toujours très fournie et le consensus était rare. Le sujet est encore en pleine évolution ce qui devrait enrichir la littérature dans le futur. »
-#+END_QUOTE
+** Trouver des ressources: un exemple :noexport:
+La première sélection s’est élevée à 43 articles, puis après lecture de ceux-ci, seuls 25 ont été retenus car ils étaient considérés plus pertinents pour répondre à la problématique. Par la suite, pour compléter les recherches, chaque bibliographie des articles lus a été passée en revue afin d’élargir les sources. De même, si les articles choisis étaient cités par d’autres auteurs, nous allions regarder les travaux de ces derniers. Cela a amené la lecture et l’utilisation de 17 articles ou travaux additionnels. Par ailleurs, des mots-clés supplémentaires ont également été utilisés sur internet ou sur d’autres bases de données pour aider à compléter certaines parties qui manquaient de corps ou pour vérifier si des ajouts intéressants étaient pertinents. Les mots choisis sont les suivants : [XXX] ».
+** Trouver des ressources: un exemple :noexport:
+Pour finir, les articles finalement utilisés ont été mis en relation les uns avec les autres, regroupés selon les deux thèmes identifiés et confrontés les uns aux autres afin de souligner la divergence des points de vue existants parmi les spécialistes. Il est à noter que pour certaines parties, la littérature n’était pas toujours très fournie et le consensus était rare. Le sujet est encore en pleine évolution ce qui devrait enrichir la littérature dans le futur.
 * Écrire la revue de littérature
 ** Comment rédiger la revue de littérature?
 La revue de littérature ne doit pas être une succession de résumés d'article. Il faut la problématiser, par exemple :
@@ -197,37 +167,21 @@ Sur ce sujet, voir:
 - Citation dans le corps du texte par "auteurs dates" ou par notes de bas de page : http://libguides.hec.ca/citer/comment
 - Faire une bibliographie à la fin
 ** Quel logiciel utiliser collecter, consulter et citer ses sources ?
-- La bibliothèque propose d'utiliser Endnote. Cependant Endnote n'est pas gratuit. Une fois que vous aurez fini vos études, vous n'aurez donc plus accès à votre base.
+- La bibliothèque propose d'utiliser Endnote. Cependant Endnote n'est pas gratuit. 
 - Je vous suggère d'utiliser Zotero, un logiciel open source. Vous pouvez l'installer dans le navigateur firefox ou comme un logiciel indépendant.
 *Tutoriels* 
 - https://www.zotero.org/support/fr/quick_start_guide
 - http://research.library.gsu.edu/zotero
 - http://ideophone.org/slides-for-a-hands-on-zotero-workshop/
 - http://www.bib.umontreal.ca/lgb/zotero/tutoriel/1-installer-zotero.htm
-* Collecter les données
-** Ajouter quelque chose sur le journal de terrain :noexport:
-Noiriel1990
-** Comment faire un guide d'entretien ?
-Le guide d'entretien permet de préparer l'entretien, il regroupe autour de thème l'ensemble des questions qui seront posées en entretien. Chaque question doit être pensée de manière judicieuse, afin d'obtenir les données nécessaires à la recherche. 
-Le guide d’entretien se prépare en deux temps[fn:4] :
-1. Déterminer les question que l'on se pose en tant que chercheur (Quelles sont les questions que je me pose ?)
-2. Trouver les questions qui permettent d'obtenir les réponses aux questions que l'on se pose (Comment puis-je les traduire en questions à poser à mon interlocuteur ?)
-Dans la première étape, on réfléchit aux questions que l'on se pose, à partir de la problématique générale de la recherche que l'on cherchera à décliner en des questions de plus en plus spécifiques (décomposer chaque thème en sous-thèmes). Il faut réfléchir si, parmi ces questions, certaines sont plus pertinentes pour la personne que l'on va interroger en particulier.
-La deuxième étape va consiste à passer de ces questions formulées en termes conceptuels, aux questions que l'on va poser directement à son interlocuteur. Ceci implique :
-- De traduire les questions en des termes intelligibles par l'interlocuteur, c'est-à- dire en des termes adaptés au registre de vocabulaire de son interlocuteur
-- D'éviter l'imposition de problématique : éviter de poser à l'interlocuteur des questions qu'il ne se pose pas, ou dans des termes qui ne correspondent pas aux siens
-** Comment formuler les questions et comment organiser le guide d'entretien ?
-- Ne pas mettre la réponse dans la question : cela signifie : éviter les questions affirmatives, et dans la mesure du possible, ne pas faire de suggestions de réponse (sinon on se retrouve dans la situation du questionnaire fermé)
-- Préparer les questions dans un ordre logique. Poser en premier les questions les moins gênantes, celles qui vont mettre en confiance (souvent des questions factuelles). Si vous avez besoin de vérifier des hypothèses en risquant une forme d'imposition de problématique : gardez cela pour la fin (pour que ça n'influence pas le reste du discours)
-- Préparer soigneusement l’introduction de l’entretien et la première question
+* Collecter les données                                            :noexport:
 ** Comment se préparer à un entretien?
 Au-delà de la construction du guide d'entretien, il faut se mettre dans les meilleures conditions pour réaliser l'entrevue. La veille de l'entretien, il est ainsi nécessaire de :
 - Confirmer le lieu et l'heure de l'entretien
 - Vérifier que l'on a des vêtements adaptés pour réaliser l'entretien. Sur ce point il faut trouver un équilibre entre des vêtements dans lesquels vous êtes à l'aise et des vêtements que vous pensez pouvoir porter dans l'organisation où vous vous rendez (Faut-il un costume / tailleur? Pour les hommes faut-il une cravate?)
 - Se renseigner de manière assez exhaustive sur l'interlocuteur et l'organisation (articles de presse, site internet, rapport annuel, etc.)
-- Vérifier que l'enregistreur est en état de marche, que les piles de l'enregistreur sont rechargées (prendre des piles supplémentaires?), qu'il reste de la mémoire pour enregister et que l'on maitrise parfaitement le fonctionnement de l'enregistreur
+- Vérifier que l'enregistreur est en état de marche, que les piles de l'enregistreur sont rechargées, qu'il reste de la mémoire pour enregister et que l'on maitrise parfaitement le fonctionnement de l'enregistreur
 - Imprimer le guide d'entretien
-- Prenez la peine de lire, relire votre guide d’entretien et de la mémoriser (au cours de l’entretien, vous ne pourrez pas lire attentivement votre guide, mais tout au plus y jeter un coup d’œil)
 Il est indispensable d'être à l'heure à l'entretien car, dans beaucoup d'organisations, les personnes interviewées n'auront pas plus que le temps prévu initialement à vous accorder. Toute minute de retard est donc du temps perdu pour l'entretien. Le jour de l'entretien, il faut donc :
 - Se rendre sur le lieu de l'entretien avec au moins 30 minutes d'avance (et attendre dans un café à quelques pas ou dans un hall)
 - Se rendre au à l'accueil avec 10 à 15 minutes d'avance (parfois, il est difficile de se repérer dans les étages et les bureaux)
@@ -265,30 +219,27 @@ Le logiciel suivant est gratuit et pratique :
 Le logiciel f4transkript semble constituer une alternative conviviale (payante mais peu chère) : <https://www.audiotranskription.de/english/f4.htm>
 Attention, je vous conseille de localiser le projet dans une dropbox afin d'éviter toute surprise (ou de faire des sauvegardes du fichier rtf souvent afin d'éviter toute perte de données en cas de problème du logiciel).
 
-* Analyser les données
+* Analyser les données                                             :noexport:
 ** Comment coder les données qualitative?
 Pour le codage, les textes suivants peuvent être utiles :
 - https://us.sagepub.com/sites/default/files/upm-binaries/43454_10.pdf
 - http://onlineqda.hud.ac.uk/Intro_QDA/what_is_qda.php
 - Mayring, P. (2014). Qualitative content analysis: theoretical foundation, basic procedures and software solution (p. 143). Klagenfurt. Retrieved from http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395173 (cette référence va trop loin, mais cela fait bien le tour des possibiltés)
-* Tenir un journal de recherche :                                  :noexport:
 * Idées de sujets
-- Entrevues avec des chefs des finances autour de 3 semaine de leur agenda afin de comprendre ce que fait un chef des finances
-- Études de cas (3 ou 4 entretiens) sur la manière dont les chefs des finances et contrôleurs pilotent les projets d'investissement en TI
-- Big data et business analytics: quels enjeux pour les comptables?
-- Mise en place de l'IFRS 15
-- Normes et guidelines dans le domaine de la comptabilité de management: une comparaison internationale
-- Mise en place de systèmes de mesure de la performance dans les OSBL / le secteur public (université)
-- Sujets en histoire de la comptabilité (accès à des archives ou à des données secondaires)
-#+BEGIN_QUOTE
-Exemple : [[https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=140MPKeOvgOomSwnuLtrjw6w5vefm50gcXt87va8HKKI&font=Default&lang=fr&initial_zoom=4&amp][Bouaouiche, N. (2016). Histoire de la comptabilité de gestion au Canada : quelles leçons pour l’avenir? (Projet supervisé de maîtrise ès sciences de la gestion). HEC Montréal.]]
-#+END_QUOTE
+** Idées de sujets
+ - Entrevues avec des chefs des finances autour de 3 semaine de leur agenda afin de comprendre ce que fait un chef des finances
+ - Études de cas (3 ou 4 entretiens) sur la manière dont les chefs des finances et contrôleurs pilotent les projets d'investissement en TI
+ - Big data et business analytics: quels enjeux pour les comptables?
+** Idées de sujets
+ - Mise en place de l'IFRS 15
+ - Normes et guidelines dans le domaine de la comptabilité de management: une comparaison internationale
+ - Mise en place de systèmes de mesure de la performance dans les OSBL / le secteur public (université)
+ - Sujets en histoire de la comptabilité (accès à des archives ou à des données secondaires)
+ #+BEGIN_QUOTE
+ Exemple : [[https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=140MPKeOvgOomSwnuLtrjw6w5vefm50gcXt87va8HKKI&font=Default&lang=fr&initial_zoom=4&amp][Bouaouiche, N. (2016). Histoire de la comptabilité de gestion au Canada : quelles leçons pour l’avenir? (Projet supervisé de maîtrise ès sciences de la gestion). HEC Montréal.]]
+https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=140MPKeOvgOomSwnuLtrjw6w5vefm50gcXt87va8HKKI
+ #+END_QUOTE
 * Footnotes
-
 [fn:1] p. 169 - Lewin, K., & Cartwright, D. (1951). Field Theory in Social Science: Selected Theoretical Papers. New York: Harper & Brothers
-
 [fn:2] Becker, H. S. (2002). Les ficelles du métier. Comment conduire sa recherche en sciences sociales. La Découverte.
-
 [fn:3] Déclaration des devoirs et des droits des journalistes, Munich, 1971.
-
-[fn:4] Cette section est adaptée des fiches pratiques proposées par [[https://annerevillard.com/enseignement/enseignements-actuels/lentretien-biographique/][Anne Revillard]]
