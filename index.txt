@@ -21,15 +21,14 @@ La première chose à faire avant de se lancer dans un [[Qu'est-ce qu'un projet 
 
 * Le projet
 ** Qu'est-ce qu'un projet supervisé ?
- Il existe plusieurs types de projets supervisés (voir http://www.hec.ca/etudiant_actuel/mon_programme/msc/projet_supervise/index.html) :
+ Il existe plusieurs types de projets supervisés (voir le *"document synthèse"* en lien sur cette page: https://www.hec.ca/etudiants/mon-programme/maitrises/projets/projet-supervise.html) :
  - Projet supervisé en organisation - mandat d’intervention
  - Rédaction d’un cas d’envergure
  - [[Qu'est-ce qu'un mandat de recherche?][Réalisation d’un mandat spécifique de recherche]]
  - Avis d’expert: analyse  d’une  réglementation  proposée  (par  exemple,  l’analyse  d’un  exposé-sondage  en comptabilité) ou sur une problématique spécifique de gestion
  - Projet entrepreneurial
 ** Qu'est-ce qu'un mémoire?
-De nombreuses informations sur le mémoire peuvent être trouvées ici: 
- http://www.hec.ca/etudiant_actuel/mon_programme/msc/memoire/index.html
+De nombreuses informations sur le mémoire peuvent être trouvées ici:  http://www.hec.ca/etudiant_actuel/mon_programme/msc/memoire/index.html
 ** Qu'est-ce qu'un mandat de recherche?
 Un "livrable bien défini", par exemple : 
 - une recension, une analyse et une synthèse de la littérature pertinente à un domaine particulier   
@@ -43,7 +42,7 @@ Un "livrable bien défini", par exemple :
 ** Quelle forme doit prendre le document ?
 Concernant l'écriture du mémoire ou du projet supervisé, le document suivant est très utile : http://www.hec.ca/qualitecomm/caf/guide-redaction-travail-cycles.pdf
 Pour un mémoire ou un projet supervisé "classique" le plus simple est bien souvent de respecter le plan suivant :
-1. Introduction
+1. [[Que mettre dans l'introduction ?][Introduction]]
 2. [[Identifier et choisir les sources d'information pour faire la revue de littérature][Revue de littérature]]
 3. Méthode de recherche
 4. Résultats
@@ -204,6 +203,9 @@ Sur ce sujet, voir:
 - http://research.library.gsu.edu/zotero
 - http://ideophone.org/slides-for-a-hands-on-zotero-workshop/
 - http://www.bib.umontreal.ca/lgb/zotero/tutoriel/1-installer-zotero.htm
+* Écrire :noexport:
+Voir ce que dit Jean Barbe
+L'écriture est une processus
 * Collecter les données
 ** Ajouter quelque chose sur le journal de terrain :noexport:
 Noiriel1990
