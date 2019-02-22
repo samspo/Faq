@@ -93,10 +93,9 @@ Revue Canadienne
 - Management Accounting Research - http://www.sciencedirect.com/science/journal/10445005
 - Auditing: A Journal of Practice & Theory -  http://aaajournals.org/loi/ajpt?code=aaan-site
 - Journal of Accounting Research - http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-679X
-
- Journal of Accounting and Economics, European Accounting Review, Accounting Auditing & Accountability Journal, Critical Perspectives on Accounting, Journal of Applied Accounting Research…
+- Journal of Accounting and Economics, European Accounting Review, Accounting Auditing & Accountability Journal, Critical Perspectives on Accounting, Journal of Applied Accounting Research…
 - Voir liste ici : http://www.harzing.com/download/jql_field.pdf (section F&A)
-** Comment lire un article de recherche ?
+** Comment lire un article de recherche?
 L’article de recherche est  ne reflète (normalement) pas l’opinion de ses auteurs mais le résultat de leurs observations sur un « terrain de recherche ». 
 Ce type d’article est parfois écrit dans un style un peu abscons pour le non initié, car il utilise des termes qui n’appartiennent pas toujours au langage courant. Pour lire efficacement un article de recherche on peut essayer de repérer les éléments suivants :
 *** Question de recherche
@@ -162,7 +161,7 @@ Plusieurs types d’ouvrages peuvent être distingués : les manuels, les essai
 Les ressources disponibles sur Internet peuvent répondre à l’une des catégories exposées ci-dessus. Elles relèvent aussi parfois du simple écrit personnel et sans aucun contrôle (c’est le cas des « blogs » par exemple). Dans ce cas leur pertinence ne tient qu’à la crédibilité que vous accordez à leur auteur. Celle-ci dépend en partie, mais en partie seulement, du parcours de l’auteur, de ses titres, de ses fonctions successives et de ses objectifs.
 L’encyclopédie en ligne Wikipedia (http://www.wikipedia.org/) peut constituer une ressource intéressante. Elle est construite de manière collaborative et permet à chacun d’y contribuer. De cette caractéristique vient à la fois sa force (chacun peut améliorer ou corriger les articles) et sa faiblesse (elle n’est pas à l’abris des farceurs ou des idéologues qui souhaitent y faire passer un message).
 *** Lois et normes : Knotia (http://libguides.hec.ca/compt)
-** Commment exercer son esprit critiques dans le choix des sources ? :noexport:
+** Comment exercer son esprit critiques dans le choix des sources ? 
 Les frontières entre les différents supports ne sont pas totalement étanches. Parfois, des chercheurs ou universitaires écrivent dans la presse ou dans les revues professionnelle et inversement des professionnels écrivent dans les revues de recherche. Par ailleurs, si la position de l’auteur et le support induisent des types d’écrit différents, ils ne préjugent en rien de leur qualité : seul votre esprit critique permettra de faire le tri. Un des critères de crédibilité de ces différents écrits repose sur la capacité des auteurs à citer leurs sources (documents) ou à restituer les exemples utilisés de manière précise ainsi que sur l’articulation logique des arguments.
 ** Comment trouver des ressources adéquates sur mon sujet ?
 La bibliothèque d'HEC propose de très nombreuses bases de données comprenant des articles de journaux, des articles professionnels et des articles de recherche : http://www.hec.ca/biblio/
@@ -197,15 +196,10 @@ Sur ce sujet, voir:
 - Faire une bibliographie à la fin
 ** Quel logiciel utiliser collecter, consulter et citer ses sources ?
 - La bibliothèque propose d'utiliser Endnote. Cependant Endnote n'est pas gratuit. Une fois que vous aurez fini vos études, vous n'aurez donc plus accès à votre base.
-- Je vous suggère d'utiliser Zotero, un logiciel open source. Vous pouvez l'installer dans le navigateur firefox ou comme un logiciel indépendant.
+- Je vous suggère d'utiliser Zotero, un logiciel open source. Pour synchronizer ses données, il est possible de payer le service auprès de zotero ou de trouver un webdav gratuit (voir ici: https://www.zotero.org/support/kb/webdav_services)
 *Tutoriels* 
 - https://www.zotero.org/support/fr/quick_start_guide
-- http://research.library.gsu.edu/zotero
-- http://ideophone.org/slides-for-a-hands-on-zotero-workshop/
 - http://www.bib.umontreal.ca/lgb/zotero/tutoriel/1-installer-zotero.htm
-* Écrire :noexport:
-Voir ce que dit Jean Barbe
-L'écriture est une processus
 * Collecter les données
 ** Ajouter quelque chose sur le journal de terrain :noexport:
 Noiriel1990
@@ -273,7 +267,23 @@ Pour le codage, les textes suivants peuvent être utiles :
 - https://us.sagepub.com/sites/default/files/upm-binaries/43454_10.pdf
 - http://onlineqda.hud.ac.uk/Intro_QDA/what_is_qda.php
 - Mayring, P. (2014). Qualitative content analysis: theoretical foundation, basic procedures and software solution (p. 143). Klagenfurt. Retrieved from http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395173 (cette référence va trop loin, mais cela fait bien le tour des possibiltés)
-* Tenir un journal de recherche :                                  :noexport:
+* Écrire, écrire, écrire
+** Construire une base de connaissances
+Il est indispensable de garder une trace de toutes les lectures faites. La grille proposée ci-dessus dans la section qui explique comment lire un article de recherche peut être utilisée pour chaque article lu. 
+Les notes prises doivent être facilement accessibles (il faut aussi trouver un système durable, que vous pourrez encore utiliser dans 10 ans (voir des explications [[https://scottnesbitt.gitlab.io/2017/07/11/matters.html][ici]], par exemple). Un moyen de faire cela est de mettre les chaque article dans un fichier de type texte et de disposer d'un logiciel pour faire des recherches. Quelques logiciels simples d'utilisation peuvent être utilisés :
+- https://fsnot.es/ (logiciel open source, dont la version gratuite est [[https://github.com/glushchenko/fsnotes/releases][ici]])
+- https://brettterpstra.com/projects/nvalt/ (pour mac)
+- http://resoph.com/ResophNotes/Welcome.html (pour windows)
+Dans le même style, on pourrait utiliser: https://bear.app/ 
+Semble pratique, simple à utiliser, mais payant et rend dépendant du logiciel qui pourrait disparaître (alors que des fichiers de type "texte" seront toujours utilisables).
+Ou des logiciels un peu plus compliqués, qui tentent de reproduire le principe de la méthode zettelkasten (voir https://zettelkasten.de/)
+- https://www.zettlr.com/
+- https://github.com/renerocksai/sublimeless_zk 
+** Tenir un journal de recherche
+Il est bon de tenir un journal de recherche avec toutes les idées qui viennent des lectures ou des rencontres. Il est possible de mettre ce journal dans un fichier texte par ordre anti-chronologique avec des dates pour chacune des entrées.
+** Écrire                                                          :noexport:
+ Voir ce que dit Jean Barbe
+ L'écriture est une processus
 * Idées de sujets
 - Entrevues avec des chefs des finances autour de 3 semaine de leur agenda afin de comprendre ce que fait un chef des finances
 - Études de cas (3 ou 4 entretiens) sur la manière dont les chefs des finances et contrôleurs pilotent les projets d'investissement en TI
