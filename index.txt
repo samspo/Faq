@@ -40,7 +40,7 @@ Un "livrable bien défini", par exemple :
 - Prendre un sujet donné par un professeur: permet de s'insérer dans un programme de recherche et d'être guidé
 - Choisir vous-même un sujet : permet de creuser un sujet qui vous intéresse ou qui pourrait vous servir dans le cadre de votre carrière future (c'est l'occasion de devenir un "expert" sur un sujet donné)
 ** Quelle forme doit prendre le document ?
-Concernant l'écriture du mémoire ou du projet supervisé, le document suivant est très utile : http://www.hec.ca/qualitecomm/caf/guide-redaction-travail-cycles.pdf
+Concernant l'écriture du mémoire ou du projet supervisé, le document suivant est très utile : https://www.hec.ca/qualitecomm/francais/caf/guide-redaction-travail-cycles.pdf
 Pour un mémoire ou un projet supervisé "classique" le plus simple est bien souvent de respecter le plan suivant :
 1. [[Que mettre dans l'introduction ?][Introduction]]
 2. [[Identifier et choisir les sources d'information pour faire la revue de littérature][Revue de littérature]]
