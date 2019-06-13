@@ -258,6 +258,7 @@ Un logiciel spécialisé peut être utilisé pour faciliter ce travail. Le logic
 - il permet d'automatiser l'inscription du locuteur et du temps (c'est-à-à-dire de la minute à laquelle les notes ont été prises, ce qui permet ensuite de retourner écouter l'enregistrement en cas de besoin).
 Le logiciel suivant est gratuit et pratique :  
 <http://www.e-werkzeug.eu/index.php/en/products/easytranscript> (consignes d'installation ici : <http://www.e-werkzeug.eu/index.php/en/installationsguide>)
+Voir aussi : https://otranscribe.com/
 Le logiciel f4transkript semble constituer une alternative conviviale (payante mais peu chère) : <https://www.audiotranskription.de/english/f4.htm>
 Attention, je vous conseille de localiser le projet dans une dropbox afin d'éviter toute surprise (ou de faire des sauvegardes du fichier rtf souvent afin d'éviter toute perte de données en cas de problème du logiciel).
 
