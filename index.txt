@@ -266,7 +266,6 @@ Attention, je vous conseille de localiser le projet dans une dropbox afin d'évi
 ** Comment coder les données qualitative?
 Pour le codage, les textes suivants peuvent être utiles :
 - https://us.sagepub.com/sites/default/files/upm-binaries/43454_10.pdf
-- http://onlineqda.hud.ac.uk/Intro_QDA/what_is_qda.php
 - Mayring, P. (2014). Qualitative content analysis: theoretical foundation, basic procedures and software solution (p. 143). Klagenfurt. Retrieved from http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395173 (cette référence va trop loin, mais cela fait bien le tour des possibiltés)
 * Écrire, écrire, écrire
 ** Construire une base de connaissances
