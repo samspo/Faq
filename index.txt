@@ -85,11 +85,10 @@ Les communication dans les colloques académiques (par exemple les colloques de 
 Il existe deux types d’articles de recherche : les articles qui cherchent à décrire la réalité (grâce à des enquêtes, l’utilisation de bases de données ou des expérimentations) et les articles qui proposent des synthèses des recherches antérieures (ces articles sont aussi appelés « revue de littérature »).
 Ces articles peuvent être utilisés pour faire l’état des connaissances ou des pratiques à un moment donné sur un sujet donné. Leur intérêt est de permettre une vision critique du sujet abordé. Ils ont aussi une certaine prétention à l’exhaustivité. De plus, les protocoles de recherches utilisés doivent garantir une certaine validité aux données empiriques qui y sont présentées. En revanche, de par le temps de publication, ces articles ne sont pas toujours au fait des dernières évolutions. Par ailleurs, ils emploient un vocabulaire spécifique aux chercheurs qui peut paraître déroutant au premier abord.
 ** Exemples de revues de recherche
-Revue Canadienne
-- Contemporary Accounting Research - http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1911-3846
+- Contemporary Accounting Research (Revue de l'Association Canadienne des Professeurs de Comptabilité) - http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1911-3846
 - Accounting Organizations and Society - http://www.sciencedirect.com/science/journal/03613682
-- Comptabilité, Contrôle, Audit - https://www.cairn.info/revue-comptabilite-controle-audit.htm
-- The Accounting Review - http://aaapubs.org/loi/accr?code=aaan-site
+- Comptabilité, Contrôle, Audit (revue de l'Association Francophone de Comptabilité) - https://www.cairn.info/revue-comptabilite-controle-audit.htm
+- The Accounting Review (revue de l'American Accounting Association) - http://aaapubs.org/loi/accr?code=aaan-site
 - Management Accounting Research - http://www.sciencedirect.com/science/journal/10445005
 - Auditing: A Journal of Practice & Theory -  http://aaajournals.org/loi/ajpt?code=aaan-site
 - Journal of Accounting Research - http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-679X
