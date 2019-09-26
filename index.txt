@@ -286,7 +286,7 @@ Il est bon de tenir un journal de recherche avec toutes les idées qui viennent 
 * Idées de sujets
 - Entrevues avec des chefs des finances autour de 3 semaine de leur agenda afin de comprendre ce que fait un chef des finances
 - Études de cas (3 ou 4 entretiens) sur la manière dont les chefs des finances et contrôleurs pilotent les projets d'investissement en TI
-- Big data et business analytics: quels enjeux pour les comptables?
+- Big data, objets connectés et business analytics, apprentissage machine: quels enjeux pour les comptables? (prendre un point précis, permettant d'illustrer ces enjeux, la difficulté est de trouver des terrains d'observation de ces nouvelles pratiques)
 - Mise en place de l'IFRS 15
 - Normes et guidelines dans le domaine de la comptabilité de management: une comparaison internationale
 - Mise en place de systèmes de mesure de la performance dans les OSBL / le secteur public (université)
