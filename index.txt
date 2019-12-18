@@ -1,4 +1,4 @@
-#+TITLE: Faire un projet supervisé ou un mémoire - Questions fréquemment posées (FAQ)
+#+TITLE: Faire un projet supervisé, un mémoire ou une thèse de doctorat - Questions fréquemment posées (FAQ)
 #+SUBTITLE: https://samspo.github.io/Faq
 #+AUTHOR: Samuel Sponem, Professeur Agrégé, HEC Montréal
 #+AUTHOR: http://chairecontroledegestion.hec.ca
@@ -11,25 +11,27 @@
 /Mise à jour: {{{time(%Y-%m-%d)}}}/
 
 * Introduction
-Ce document est une liste des /FAQ (Frequently Asked Questions)/ des étudiants lorsqu'ils réalisent un mémoire ou un projet supervisé à HEC Montréal.
+Ce document est une liste des /FAQ (Frequently Asked Questions)/ des étudiants lorsqu'ils réalisent un mémoire, un projet supervisé ou une thèse de doctorat à HEC Montréal, plus particulièrement dans le domaine des sciences comptables. Il n'est pas exhaustif et est construit au fur et à mesure, à partir des interactions que j'ai avec les étudiants que j'encadre. 
 
-La première chose à faire avant de se lancer dans un [[Qu'est-ce qu'un projet supervisé ?][projet supervisé]] ou un [[Qu'est-ce qu'un mémoire?][mémoire]] est de prendre connaissance des règles qui encadrent ce travail. Ceci vous permettra d'avoir une meilleure idée de ce que vous avez envie de faire et facilitera votre recherche d'un superviseur. Il faut ensuite faire une [[Identifier et choisir les sources d'information pour faire la revue de littérature][revue de littérature]] et, parfois, [[Collecter les données][collecter]] et [[Analyser les données][analyser des données]].
+La première chose à faire avant de se lancer dans un [[Qu'est-ce qu'un projet supervisé ?][projet supervisé]] ou un [[Qu'est-ce qu'un mémoire ?][mémoire]] est de prendre connaissance des règles qui encadrent ce travail. Ceci vous permettra d'avoir une meilleure idée de ce que vous avez envie de faire et facilitera votre recherche d'un superviseur. Il faut ensuite faire une [[Identifier et choisir les sources d'information pour faire la revue de littérature][revue de littérature]] et, parfois, [[Collecter les données][collecter]] et [[Analyser les données][analyser des données]]. 
 
-*Des [[Idées de sujets][idées de sujets]] sont proposées à la fin de ce document.*
+Un facteur majeur de réussite est de [[Communiquer][communiquer]] de manière efficace avec votre directeur ou votre directrice et avec vos lecteurs.
 
-/Si vous souhaitez me contacter pour un mémoire ou un projet supervisé, vous pouvez trouver plus d'information sur moi, ainsi que mes coordonnées, sur le site de la [[http://chairecontroledegestion.hec.ca][chaire internationale CPA de recherche en contrôle de gestion]], dont je suis le titulaire/
+/Si vous souhaitez me contacter pour un mémoire ou un projet supervisé, vous pouvez trouver plus d'information sur moi, ainsi que mes coordonnées, sur le site de la [[http://chairecontroledegestion.hec.ca][chaire internationale CPA de recherche en contrôle de gestion]], dont je suis le titulaire./
+
+/*Des [[Idées de sujets][idées de sujets]] sont proposées à la fin de ce document.*/
 
 * Le projet
 ** Qu'est-ce qu'un projet supervisé ?
  Il existe plusieurs types de projets supervisés (voir le *"document synthèse"* en lien sur cette page: https://www.hec.ca/etudiants/mon-programme/maitrises/projets/projet-supervise.html) :
  - Projet supervisé en organisation - mandat d’intervention
  - Rédaction d’un cas d’envergure
- - [[Qu'est-ce qu'un mandat de recherche?][Réalisation d’un mandat spécifique de recherche]]
+ - [[Qu'est-ce qu'un mandat de recherche ?][Réalisation d’un mandat spécifique de recherche]]
  - Avis d’expert: analyse  d’une  réglementation  proposée  (par  exemple,  l’analyse  d’un  exposé-sondage  en comptabilité) ou sur une problématique spécifique de gestion
  - Projet entrepreneurial
-** Qu'est-ce qu'un mémoire?
+** Qu'est-ce qu'un mémoire ?
 De nombreuses informations sur le mémoire peuvent être trouvées ici: https://www.hec.ca/etudiants/mon-programme/maitrises/memoire/index.html (voir notamment le document sur la nature et les exigences du mémoire)
-** Qu'est-ce qu'un mandat de recherche?
+** Qu'est-ce qu'un mandat de recherche ?
 Un "livrable bien défini", par exemple : 
 - une recension, une analyse et une synthèse de la littérature pertinente à un domaine particulier   
 - la participation à la construction ou au traitement d'une base de données
@@ -55,7 +57,7 @@ L'introduction doit permettre de justifier le projet et d'annoncer le travail qu
 2. Une question de recherche ou un objectif de recherche
 4. Un résumé des résultats et apport du travail
 5. Une annonce du plan
-** Par quoi commencer?
+** Par quoi commencer ?
 1. Trouver un sujet qui intéresse vous ou votre directeur de recherche
 2. Commencer à faire une revue de littérature et voir quel terrain pourrait être intéressant
 3. Trouver la question de recherche / l'objectif de la recherche
@@ -69,7 +71,7 @@ L'introduction doit permettre de justifier le projet et d'annoncer le travail qu
 - Comprendre le contexte (par exemple juridique ou économique)
 - Permettre de faire des hypothèses
 - Construire une grille d'analyse du phénomène qui servira à analyser les données collectées
-** Quelles sont les ressources qui peuvent être mobilisées dans la revue de littérature?
+** Quelles sont les ressources qui peuvent être mobilisées dans la revue de littérature ?
 Les lectures n’ont de sens que si elles s’exercent de manière critique. Pour exercer son discernement, il faut savoir se repérer entre les différentes sources d’informations:
 - les articles de recherche issus des [[Qu'est-ce qu'une revue académique?][revues académiques]]
 - les articles issus des [[Qu'est-ce qu'une revue professionnelle ?][revues professionnelles]]
@@ -177,13 +179,13 @@ La première sélection s’est élevée à 43 articles, puis après lecture de 
 Pour finir, les articles finalement utilisés ont été mis en relation les uns avec les autres, regroupés selon les deux thèmes identifiés et confrontés les uns aux autres afin de souligner la divergence des points de vue existants parmi les spécialistes. Il est à noter que pour certaines parties, la littérature n’était pas toujours très fournie et le consensus était rare. Le sujet est encore en pleine évolution ce qui devrait enrichir la littérature dans le futur. »
 #+END_QUOTE
 * Écrire la revue de littérature
-** Comment rédiger la revue de littérature?
+** Comment rédiger la revue de littérature ?
 La revue de littérature ne doit pas être une succession de résumés d'article. Il faut la problématiser, par exemple :
 - en fonction des théories ou des thèmes abordés
 - en fonction des méthodes utilisées par les articles
 - en fonction des périodes historiques
 Dans une revue de littérature, il faut mettre des tableaux de synthèse et des figures. Il faut se limiter au strict minimum nécessaire pour traiter votre sujet (parfois, il faut savoir supprimer ce qui n'est pas réellement utile)
-** Pourquoi citer ses sources?
+** Pourquoi citer ses sources ?
 Par honnêteté intellectuelle et pour crédibiliser votre argumentation il est indispensable :
 - de citer les références (auteur, titre de l’ouvrage, éditeur) des idées que vous empruntez à vos lectures
 - de mettre entre guillemets les passages empruntés tels quels
@@ -215,7 +217,7 @@ La deuxième étape va consiste à passer de ces questions formulées en ter
 - Ne pas mettre la réponse dans la question : cela signifie : éviter les questions affirmatives, et dans la mesure du possible, ne pas faire de suggestions de réponse (sinon on se retrouve dans la situation du questionnaire fermé)
 - Préparer les questions dans un ordre logique. Poser en premier les questions les moins gênantes, celles qui vont mettre en confiance (souvent des questions factuelles). Si vous avez besoin de vérifier des hypothèses en risquant une forme d'imposition de problématique : gardez cela pour la fin (pour que ça n'influence pas le reste du discours)
 - Préparer soigneusement l’introduction de l’entretien et la première question
-** Comment se préparer à un entretien?
+** Comment se préparer à un entretien ?
 Au-delà de la construction du guide d'entretien, il faut se mettre dans les meilleures conditions pour réaliser l'entrevue. La veille de l'entretien, il est ainsi nécessaire de :
 - Confirmer le lieu et l'heure de l'entretien
 - Vérifier que l'on a des vêtements adaptés pour réaliser l'entretien. Sur ce point il faut trouver un équilibre entre des vêtements dans lesquels vous êtes à l'aise et des vêtements que vous pensez pouvoir porter dans l'organisation où vous vous rendez (Faut-il un costume / tailleur? Pour les hommes faut-il une cravate?)
@@ -226,7 +228,7 @@ Au-delà de la construction du guide d'entretien, il faut se mettre dans les mei
 Il est indispensable d'être à l'heure à l'entretien car, dans beaucoup d'organisations, les personnes interviewées n'auront pas plus que le temps prévu initialement à vous accorder. Toute minute de retard est donc du temps perdu pour l'entretien. Le jour de l'entretien, il faut donc :
 - Se rendre sur le lieu de l'entretien avec au moins 30 minutes d'avance (et attendre dans un café à quelques pas ou dans un hall)
 - Se rendre au à l'accueil avec 10 à 15 minutes d'avance (parfois, il est difficile de se repérer dans les étages et les bureaux)
-** Comment réaliser une retranscription d'entretien?
+** Comment réaliser une retranscription d'entretien ?
 La retranscription à faire est intégrale et "presque" mot à mot, c'est à dire qu'il faut retranscrire exactement ce que dit l'interviewé, avec quelques aménagements pour s'assurer que la phrase a du sens à l'écrit. Il faut mettre de la ponctuation (points et virgules) le plus souvent possible même si ce n'est pas toujours explicite dans le discours de l'interviewé, de manière à respecter le rythme de la parole.
 Si la personne qui conduit l'entrevue (l’interviewer) part dans de longues diatribes, la retranscription intégrale est inutile, il suffit d'avoir l'essentiel (en général, toute la mise en contexte que l'interviewer fait au début de l'interview n'est pas utile) mais les paroles de l'interviewé sont importantes.
 #+BEGIN_QUOTE
@@ -249,7 +251,7 @@ par exemple : 2016-12-04-Durant-DirecteurAudit
 #+END_QUOTE
 - Une fois la retranscription réalisée, une relecture doit être faite à la fin pour s'assurer de limiter les fautes d'orthographe ou les phrases qui n'ont pas de sens.
 - Pour faciliter la retranscription, un logiciel peut être utilisé.
-** Quel logiciel utiliser pour réaliser un entretien?
+** Quel logiciel utiliser pour réaliser un entretien ?
 Retranscrire un entretien est une tâche fastidieuse. Cela peut prendre de 3 à 6 heures pour retranscrire une heure d'entretien.
 Un logiciel spécialisé peut être utilisé pour faciliter ce travail. Le logiciel n'automatise pas la retranscription, mais il la facilite :
 - il permet de ralentir la lecture pour faciliter la retranscription;
@@ -262,19 +264,20 @@ Le logiciel f4transkript semble constituer une alternative conviviale (payante m
 Attention, je vous conseille de localiser le projet dans une dropbox afin d'éviter toute surprise (ou de faire des sauvegardes du fichier rtf souvent afin d'éviter toute perte de données en cas de problème du logiciel).
 
 * Analyser les données
-** Comment coder les données qualitative?
+** Comment coder les données qualitative ?
 Pour le codage, les textes suivants peuvent être utiles :
 - https://us.sagepub.com/sites/default/files/upm-binaries/43454_10.pdf
-- Mayring, P. (2014). Qualitative content analysis: theoretical foundation, basic procedures and software solution (p. 143). Klagenfurt. Retrieved from http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395173 (cette référence va trop loin, mais cela fait bien le tour des possibiltés)
+- Mayring, P. (2014). Qualitative content analysis: theoretical foundation, basic procedures and software solution (p. 143). Klagenfurt. http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395173 (cette référence va trop loin, mais cela fait bien le tour des possibiltés)
 * Écrire, écrire, écrire
 ** Construire une base de connaissances
 Il est indispensable de garder une trace de toutes les lectures faites. La grille proposée ci-dessus dans la section qui explique comment lire un article de recherche peut être utilisée pour chaque article lu. 
 Les notes prises doivent être facilement accessibles (il faut aussi trouver un système durable, que vous pourrez encore utiliser dans 10 ans (voir des explications [[https://scottnesbitt.gitlab.io/2017/07/11/matters.html][ici]], par exemple). Un moyen de faire cela est de mettre les chaque article dans un fichier de type texte et de disposer d'un logiciel pour faire des recherches. Quelques logiciels simples d'utilisation peuvent être utilisés :
 - https://fsnot.es/ (logiciel open source, dont la version gratuite est [[https://github.com/glushchenko/fsnotes/releases][ici]])
+- https://notable.md/
 - https://brettterpstra.com/projects/nvalt/ (pour mac)
 - http://resoph.com/ResophNotes/Welcome.html (pour windows)
-Dans le même style, on pourrait utiliser: https://bear.app/ 
-Semble pratique, simple à utiliser, mais payant et rend dépendant du logiciel qui pourrait disparaître (alors que des fichiers de type "texte" seront toujours utilisables).
+- https://orgmode.org/ (plus compliqué, nécessite d'installer https://www.gnu.org/software/emacs/), combiné avec des packages adaptés de type https://jblevins.org/projects/deft/ ou https://github.com/Kungsgeten/org-brain (pour les très /geeks/ uniquement). 
+Dans le même style, on pourrait utiliser https://bear.app/ qui semble pratique, simple à utiliser, mais payant et rend dépendant du logiciel qui pourrait disparaître (alors que des fichiers de type "texte" seront toujours utilisables).
 Ou des logiciels un peu plus compliqués, qui tentent de reproduire le principe de la méthode zettelkasten (voir https://zettelkasten.de/)
 - https://www.zettlr.com/
 - https://github.com/renerocksai/sublimeless_zk 
@@ -283,13 +286,26 @@ Il est bon de tenir un journal de recherche avec toutes les idées qui viennent 
 ** Écrire                                                          :noexport:
  Voir ce que dit Jean Barbe
  L'écriture est une processus
+* Communiquer
+** Comment présenter votre document de manière professionnelle ?
+Pour s'assurer de la cohérence de la présentation du document, il est indispensable d'utiliser les [[https://support.office.com/fr-fr/article/appliquer-des-styles-f8b96097-4d25-4fac-8200-6139c8093109][styles de Word]]. Ceci facilite aussi la [[https://support.office.com/fr-fr/article/utiliser-le-volet-de-navigation-394787be-bca7-459b-894e-3f8511515e55][navigation dans le document]].
+Si vous êtes plus /"geek"/, vous pouvez utiliser des systèmes de composition de document plus complexes de type [[https://fr.wikipedia.org/wiki/LaTeX][LaTeX]], ou des langages de balisage de type [[https://fr.wikipedia.org/wiki/Markdown][markdown]] ou [[https://fr.wikipedia.org/wiki/Org-mode][Org-mode]] que vous pourrez ensuite convertir en PDF ou docx à l'aide de logiciels appropriés (par exemple, [[https://fr.wikipedia.org/wiki/Pandoc][Pandoc]]).
+** Comment /"supporter"/ la personne qui encadre votre projet ?
+Les relations entre l'étudiant et la personne qui encadre le projet sont toujours (plus ou moins) compliquées. Vous ne savez pas comment lui parler et elle a plein d'autres choses à faire. Pour la /"supporter"/ durant votre projet, il faut la /"supporter"/ [[http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?id=2531][dans le sens dérivé de l'anglais]]. Autrement dit, il faut l'aider à bien vous encadrer.
+Un bon moyen d'avoir de bonnes relations avec la personne qui vous encadre est de commencer par lire l'ensemble des documents mis à votre disposition à HEC pour la production d'un document écrit (voir documents cités ci-dessus). Il faut aussi que chacune de vos interactions soit agréable et productive.
+Quelques conseils :
+- Formulez de manière précise vos questions par courriel, rappelez le contexte et votre niveau d'avancement ;
+- Faites attention à la présentation et au niveau de langage de vos communications écrites, vous devriez utiliser la [[http://www.alloprof.qc.ca/BV/pages/f1002.aspx#a3][langue standard]] ;
+- Lors d'un premier contact, explicitez vos idées de projets (même préliminaires), votre parcours et la raison pour laquelle vous contactez cette personne ;
+- Lors des rencontres, arrivez avec des questions bien préparées, et ayez un objectif précis ;
+- À l'issue des rencontres, envoyez par courriel un compte-rendu de ce qui a été dit et décidé, cela évitera de revenir sur les mêmes problèmes la prochaine fois.
 * Idées de sujets
 - Entrevues avec des chefs des finances autour de 3 semaine de leur agenda afin de comprendre ce que fait un chef des finances
 - Études de cas (3 ou 4 entretiens) sur la manière dont les chefs des finances et contrôleurs pilotent les projets d'investissement en TI
-- Big data, objets connectés et business analytics, apprentissage machine: quels enjeux pour les comptables? (prendre un point précis, permettant d'illustrer ces enjeux, la difficulté est de trouver des terrains d'observation de ces nouvelles pratiques)
+- Big data, objets connectés et business analytics, apprentissage machine: quels enjeux pour les comptables ? (prendre un point précis, permettant d'illustrer ces enjeux, la difficulté est de trouver des terrains d'observation de ces nouvelles pratiques)
 - Mise en place de l'IFRS 15
 - Normes et guidelines dans le domaine de la comptabilité de management: une comparaison internationale
-- Mise en place de systèmes de mesure de la performance dans les OSBL / le secteur public (université)
+- Mise en place de systèmes de mesures de la performance dans les OSBL / le secteur public (université)
 - Sujets en histoire de la comptabilité (accès à des archives ou à des données secondaires)
 #+BEGIN_QUOTE
 Exemple : [[https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=140MPKeOvgOomSwnuLtrjw6w5vefm50gcXt87va8HKKI&font=Default&lang=fr&initial_zoom=4&amp][Bouaouiche, N. (2016). Histoire de la comptabilité de gestion au Canada : quelles leçons pour l’avenir? (Projet supervisé de maîtrise ès sciences de la gestion). HEC Montréal.]]
