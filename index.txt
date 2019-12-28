@@ -216,7 +216,7 @@ La deuxième étape va consiste à passer de ces questions formulées en ter
 ** Comment formuler les questions et comment organiser le guide d'entretien ?
 - Ne pas mettre la réponse dans la question : cela signifie : éviter les questions affirmatives, et dans la mesure du possible, ne pas faire de suggestions de réponse (sinon on se retrouve dans la situation du questionnaire fermé)
 - Préparer les questions dans un ordre logique. Poser en premier les questions les moins gênantes, celles qui vont mettre en confiance (souvent des questions factuelles). Si vous avez besoin de vérifier des hypothèses en risquant une forme d'imposition de problématique : gardez cela pour la fin (pour que ça n'influence pas le reste du discours)
-- Préparer soigneusement l’introduction de l’entretien et la première question. En général, pour une entrevue en organisation, on commence en expliquant le projet en termes vagues et on pose des questions sur très factuelles sur le parcours professionnel de l'interlocuteur et son poste actuel.
+- Préparer soigneusement l’introduction de l’entretien et la première question. En général, pour une entrevue en organisation, on commence en expliquant le projet en termes vagues et on pose des questions très factuelles sur le parcours professionnel de l'interlocuteur et son poste actuel.
 ** Comment se préparer à un entretien ?
 Au-delà de la construction du guide d'entretien, il faut se mettre dans les meilleures conditions pour réaliser l'entrevue. La veille de l'entretien, il est ainsi nécessaire de :
 - Confirmer le lieu et l'heure de l'entretien
