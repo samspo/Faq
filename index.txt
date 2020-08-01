@@ -23,7 +23,7 @@ Un facteur majeur de réussite est de [[Communiquer][communiquer]] de manière e
 
 * Le projet
 ** Qu'est-ce qu'un projet supervisé ?
- Il existe plusieurs types de projets supervisés (voir le *"document synthèse"* en lien sur cette page: https://www.hec.ca/etudiants/mon-programme/maitrises/projets/projet-supervise.html) :
+ Il existe plusieurs types de projets supervisés (voir le guide *"Nature et exigences"* en lien sur cette page: https://www.hec.ca/etudiants/mon-programme/maitrises/projets/projet-supervise.html) :
  - Projet supervisé en organisation - mandat d’intervention
  - [[Qu'est-ce qu'un cas d'envergure ?][Rédaction d’un cas d’envergure]]
  - [[Qu'est-ce qu'un mandat de recherche ?][Réalisation d’un mandat spécifique de recherche]]
