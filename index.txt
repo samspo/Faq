@@ -210,6 +210,7 @@ Sur ce sujet, voir:
 ** Quel logiciel utiliser collecter, consulter et citer ses sources ?
 - La bibliothèque propose d'utiliser Endnote. Cependant Endnote n'est pas gratuit. Une fois que vous aurez fini vos études, vous n'aurez donc plus accès à votre base.
 - Je vous suggère d'utiliser Zotero, un logiciel open source. Pour synchronizer ses données, il est possible de payer le service auprès de zotero ou de trouver un webdav gratuit (voir ici: https://www.zotero.org/support/kb/webdav_services)
+- Le plugin Zotfile est particulièrement utile pour gérer les PDF à partir de Zotero (extraction des annotations et synchronisation avec une tablette) : http://zotfile.com/
 *Tutoriels* 
 - https://www.zotero.org/support/fr/quick_start_guide
 - http://www.bib.umontreal.ca/lgb/zotero/tutoriel/1-installer-zotero.htm
