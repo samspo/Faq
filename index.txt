@@ -25,7 +25,7 @@ Un facteur majeur de réussite est de [[Communiquer][communiquer]] de manière e
 ** Qu'est-ce qu'un projet supervisé ?
  Il existe plusieurs types de projets supervisés (voir le *"document synthèse"* en lien sur cette page: https://www.hec.ca/etudiants/mon-programme/maitrises/projets/projet-supervise.html) :
  - Projet supervisé en organisation - mandat d’intervention
- - Rédaction d’un cas d’envergure
+ - [[Qu'est-ce qu'un cas d'envergure ?][Rédaction d’un cas d’envergure]]
  - [[Qu'est-ce qu'un mandat de recherche ?][Réalisation d’un mandat spécifique de recherche]]
  - Avis d’expert: analyse  d’une  réglementation  proposée  (par  exemple,  l’analyse  d’un  exposé-sondage  en comptabilité) ou sur une problématique spécifique de gestion
  - Projet entrepreneurial
@@ -38,6 +38,8 @@ Un "livrable bien défini", par exemple :
 - l’estimation ou le calibrage d'un modèle à partir de données empiriques 
 - le développement d'outils pouvant servir à la collecte ou à l’analyse de données (questionnaire, guide d’entrevue, etc.)
 - l'adaptation d'une étude à d'autres données ou à d'autres environnements
+** Qu'est-ce qu'un cas d'envergure ?
+Donne l’occasion d’approfondir ses connaissances d’un problème de gestion. L’étude de cas doit être complète, c’est-à-dire qu’elle doit couvrir plusieurs aspects du sujet principal d’étude et utiliser plusieurs sources de renseignements. Cela implique de trouver  la  situation  servant  de  base  au  cas et d’en  déterminer  le  problème central. Le cas d'envergure peut éventuellement être utilisé pour en faire un cas pédagogique. [[Quelques revues orientées vers la pédagogie][Le catalogue des cas d'HEC Montréal]] et certaines revues de pédagogie publient des cas de ce type.
 ** Comment choisir un sujet ?
 - Prendre un sujet donné par un professeur: permet de s'insérer dans un programme de recherche et d'être guidé
 - Choisir vous-même un sujet : permet de creuser un sujet qui vous intéresse ou qui pourrait vous servir dans le cadre de votre carrière future (c'est l'occasion de devenir un "expert" sur un sujet donné)
@@ -96,6 +98,16 @@ Ces articles peuvent être utilisés pour faire l’état des connaissances ou d
 - Journal of Accounting Research - http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-679X
 - Journal of Accounting and Economics, European Accounting Review, Accounting Auditing & Accountability Journal, Critical Perspectives on Accounting, Journal of Applied Accounting Research…
 - Voir liste ici : http://www.harzing.com/download/jql_field.pdf (section F&A)
+** Quelques revues orientées vers la pédagogie
+Il existe des revues qui publient principalement des cas pédagogiques ou des recherches sur la pédagogies. En Français, on pourra notamment se référer à :
+- la revue internationale des cas en gestion d'HEC Montréal : https://www.hec.ca/centredecas/ricg/
+- au catalogue du centre de cas d'HEC Montréal : https://www.hec.ca/centredecas/catalogue/index.html
+- La revue recherche et cas en sciences de gestion : http://revuecasgestion.fr/
+Voici quelques exemples de revues plus spécifiquement consacrées à ces sujets dans le domaine comptable :
+- La revue /Perspectives Comptables/ (de l'association Canadienne des professeurs de comptabibilité) publie quelques cas : https://www.onlinelibrary.wiley.com/journal/19113838
+- Accounting Education : https://www.tandfonline.com/loi/raed20
+- Journal of Accounting Education : https://www.journals.elsevier.com/journal-of-accounting-education/
+- Issues in Accounting Education (de l'American Accounting Association) : https://www.aaajournals.org/toc/iace/current
 ** Comment lire un article de recherche?
 L’article de recherche est  ne reflète (normalement) pas l’opinion de ses auteurs mais le résultat de leurs observations sur un « terrain de recherche ». 
 Ce type d’article est parfois écrit dans un style un peu abscons pour le non initié, car il utilise des termes qui n’appartiennent pas toujours au langage courant. Pour lire efficacement un article de recherche on peut essayer de repérer les éléments suivants :
@@ -268,6 +280,14 @@ Attention, je vous conseille de localiser le projet dans une dropbox afin d'évi
 Pour le codage, les textes suivants peuvent être utiles :
 - https://us.sagepub.com/sites/default/files/upm-binaries/43454_10.pdf
 - Mayring, P. (2014). Qualitative content analysis: theoretical foundation, basic procedures and software solution (p. 143). Klagenfurt. http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395173 (cette référence va trop loin, mais cela fait bien le tour des possibiltés)
+** Comment présenter des données quantitatives ?
+Vous devez apporter un soin particulier à la présentation des données quantitatives pour en donner une représentation adéquate. Quelques ressources utiles sont proposées ci-dessous :
+- Quel type de graphique choisir? : https://www.graphorama.net/Quel-type-de-graphique-choisir.html
+- Data Viz Catalogue: https://datavizcatalogue.com/
+- Financial Times - Visual Vocabulary:
+  - version PDF : https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf
+  - version interactive : http://ft-interactive.github.io/visual-vocabulary/
+- Guide pratique de la visualisation de données : définition, exemples et ressources didactiques. : https://www.tableau.com/fr-fr/learn/articles/data-visualization
 * Écrire, écrire, écrire
 ** Construire une base de connaissances
 Il est indispensable de garder une trace de toutes les lectures faites. La grille proposée ci-dessus dans la section qui explique comment lire un article de recherche peut être utilisée pour chaque article lu. 
