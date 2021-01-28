@@ -174,6 +174,10 @@ Plusieurs types d’ouvrages peuvent être distingués : les manuels, les essai
 Les ressources disponibles sur Internet peuvent répondre à l’une des catégories exposées ci-dessus. Elles relèvent aussi parfois du simple écrit personnel et sans aucun contrôle (c’est le cas des « blogs » par exemple). Dans ce cas leur pertinence ne tient qu’à la crédibilité que vous accordez à leur auteur. Celle-ci dépend en partie, mais en partie seulement, du parcours de l’auteur, de ses titres, de ses fonctions successives et de ses objectifs.
 L’encyclopédie en ligne Wikipedia (http://www.wikipedia.org/) peut constituer une ressource intéressante. Elle est construite de manière collaborative et permet à chacun d’y contribuer. De cette caractéristique vient à la fois sa force (chacun peut améliorer ou corriger les articles) et sa faiblesse (elle n’est pas à l’abris des farceurs ou des idéologues qui souhaitent y faire passer un message).
 *** Lois et normes : Knotia (http://libguides.hec.ca/compt)
+*** Conferences (pour ceux qui veulent suivre les avancées de la recherche en comptabilité)
+- La conférences de l'Association Canadienne de Comptabilité se tient chaque année: https://www.caaa.ca/
+- De nombreuses conférences sont organisées chaque année dans le domaine, la European Accounting Association en propose une liste : https://arc.eaa-online.org/events
+- Pour ceux qui sont en thèse, il est indispensable de participer aux colloques doctoraux organisés par les différentes associations. Une liste (non-exhaustive) est disponible ici : https://arc.eaa-online.org/doctoral-colloquium
 ** Comment exercer son esprit critiques dans le choix des sources ? 
 Les frontières entre les différents supports ne sont pas totalement étanches. Parfois, des chercheurs ou universitaires écrivent dans la presse ou dans les revues professionnelle et inversement des professionnels écrivent dans les revues de recherche. Par ailleurs, si la position de l’auteur et le support induisent des types d’écrit différents, ils ne préjugent en rien de leur qualité : seul votre esprit critique permettra de faire le tri. Un des critères de crédibilité de ces différents écrits repose sur la capacité des auteurs à citer leurs sources (documents) ou à restituer les exemples utilisés de manière précise ainsi que sur l’articulation logique des arguments.
 ** Comment trouver des ressources adéquates sur mon sujet ?
@@ -213,7 +217,10 @@ Sur ce sujet, voir:
 - Le plugin Zotfile est particulièrement utile pour gérer les PDF à partir de Zotero (extraction des annotations et synchronisation avec une tablette) : http://zotfile.com/
 *Tutoriels* 
 - https://www.zotero.org/support/fr/quick_start_guide
-- http://www.bib.umontreal.ca/lgb/zotero/tutoriel/1-installer-zotero.htm
+- http://www.bib.umontreal.ca/lgb/zotero
+- https://github.com/fflamerie/zotero_gerer_biblio
+- https://sciencespo.libguides.com/zotero
+- https://www.youtube.com/watch?v=lI9OyvOEv4g&
 * Collecter les données
 ** Ajouter quelque chose sur le journal de terrain :noexport:
 Noiriel1990
