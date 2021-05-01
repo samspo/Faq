@@ -98,6 +98,11 @@ Ces articles peuvent être utilisés pour faire l’état des connaissances ou d
 - Journal of Accounting Research - http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-679X
 - Journal of Accounting and Economics, European Accounting Review, Accounting Auditing & Accountability Journal, Critical Perspectives on Accounting, Journal of Applied Accounting Research…
 - Voir liste ici : http://www.harzing.com/download/jql_field.pdf (section F&A)
+/Si vous n'avez pas accès aux bases de données, vous pouvez trouver certains articles sur sci-hub (en ce moment disponible ici https://sci-hub.se, mais l'adresse change parfois). Attention, certains pays bloquent l'accès à ce site./
+** Revues prédatrices
+Attention, certaines revues sont considérées comme "prédatrices".
+Voir explication ici: https://fr.wikipedia.org/wiki/Revue_pr%C3%A9datrice
+Liste de revues considérées comme prédatrices: https://predatoryjournals.com/journals
 ** Quelques revues orientées vers la pédagogie
 Il existe des revues qui publient principalement des cas pédagogiques ou des recherches sur la pédagogies. En Français, on pourra notamment se référer à :
 - la revue internationale des cas en gestion d'HEC Montréal : https://www.hec.ca/centredecas/ricg/
