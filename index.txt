@@ -295,8 +295,10 @@ Attention, je vous conseille de localiser le projet dans une dropbox afin d'évi
 * Analyser les données
 ** Comment coder les données qualitative ?
 Pour le codage, les textes suivants peuvent être utiles :
-- https://us.sagepub.com/sites/default/filesn/upm-binaries/43454_10.pdf
-- Mayring, P. (2014). Qualitative content analysis: theoretical foundation, basic procedures and software solution (p. 143). Klagenfurt. http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395173 (cette référence va trop loin, mais cela fait bien le tour des possibiltés)
+- Skjott Linneberg, M., & Korsgaard, S. (2019). Coding qualitative data : A synthesis guiding the novice. Qualitative Research Journal, 19(3), 259‑270. https://doi.org/10.1108/QRJ-12-2018-0012 [[file:SkjottLinneberg2019.pdf][(fichier pdf]])
+- Saldaña, J. (2014). Coding and Analysis Strategies. In P. Leavy (Éd.), The Oxford Handbook of Qualitative Research (p. 580‑598). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199811755.013.001 [[][fichier pdf]
+- Schutt, R. K. (2014). Investigating the Social World. - Chapter 10, Sage Publications.([[file:Schutt2014a.pdf][fichier pdf]])
+- 
 ** Comment présenter des données quantitatives ?
 Vous devez apporter un soin particulier à la présentation des données quantitatives pour en donner une représentation adéquate. Quelques ressources utiles sont proposées ci-dessous :
 - Quel type de graphique choisir? : https://www.graphorama.net/Quel-type-de-graphique-choisir.html
@@ -318,7 +320,7 @@ Dans le même style, on pourrait utiliser https://bear.app/ https://roamresearch
 Voir aussi des logiciels (libres) un peu plus compliqués, qui tentent de reproduire le principe de la méthode zettelkasten (voir https://zettelkasten.de/), par exemple https://www.zettlr.com/
 ** Tenir un journal de recherche
 Il est bon de tenir un journal de recherche avec toutes les idées qui viennent des lectures ou des rencontres. Il est possible de mettre ce journal dans un fichier texte par ordre anti-chronologique avec des dates pour chacune des entrées.
-** Écrire                                                          :noexport:
+** Écrire
  Voir ce que dit Jean Barbe
  L'écriture est une processus
 * Communiquer
