@@ -191,9 +191,12 @@ L’encyclopédie en ligne Wikipedia (http://www.wikipedia.org/) peut constituer
 Les frontières entre les différents supports ne sont pas totalement étanches. Parfois, des chercheurs ou universitaires écrivent dans la presse ou dans les revues professionnelle et inversement des professionnels écrivent dans les revues de recherche. Par ailleurs, si la position de l’auteur et le support induisent des types d’écrit différents, ils ne préjugent en rien de leur qualité : seul votre esprit critique permettra de faire le tri. Un des critères de crédibilité de ces différents écrits repose sur la capacité des auteurs à citer leurs sources (documents) ou à restituer les exemples utilisés de manière précise ainsi que sur l’articulation logique des arguments.
 ** Comment trouver des ressources adéquates sur mon sujet ?
 La bibliothèque d'HEC propose de très nombreuses bases de données comprenant des articles de journaux, des articles professionnels et des articles de recherche : http://www.hec.ca/biblio/
-- Pour les articles de presse: Lexis-Nexis, Factiva et Eureka (http://libguides.hec.ca/actualite)
-- Pour les articles de recherche: Ebsco, ABI Inform (proquest), Cairn, ainsi que les sites des éditeurs (http://www.hec.ca/biblio/banques-de-donnees/liste-complete.html)
-- Au-delà des ressources de la bibliothèque: https://scholar.google.ca/
+*** Trouver des articles de presse
+Voir Lexis-Nexis, Factiva et Eureka (http://libguides.hec.ca/actualite)
+*** Trouver des articles de recherche
+Voir Ebsco, ABI Inform (proquest), Cairn, ainsi que les sites des éditeurs (http://www.hec.ca/biblio/banques-de-donnees/liste-complete.html)
+*** Au-delà des ressources de la bibliothèque
+Voir https://scholar.google.ca/ (articles de recherche) et https://www.worldcat.org/ (catalogues de toutes les bibliothèques universitaires dans le monde)
 ** Trouver des ressources: un exemple
 #+BEGIN_QUOTE
 *Extraits d'un projet supervisé de maîtrise ès sciences de la gestion soutenu en 2017*
@@ -293,7 +296,7 @@ Attention, je vous conseille de localiser le projet dans une dropbox afin d'évi
 Il est souvent important de collecter des données publiques qui permettent de comprendre le contexte dans lequel se situe l'organisation. 
 On est très vite noyé sous l'information. Un moyen simple d'organiser les données est de faire des dossiers par thèmes (par exemple Informations financières / Informations stratégiques) et au sein de ces données de faire commencer le nom des fichiers par la date de production de ces fichier. Par exemple, le rapport annuel 2022 (paru en avril) d'une organisation irait dans le dossier "Informations financières" et serait nommé 2022-04-RapportAnnuel.
 Lorsque les informations sont sur le web, on peut les transformer en pdf avec https://www.printfriendly.com/ (en installant le plugin adapté à votre navigateur). Vous pouvez aussi les garder en format html et les télécharger proprement avec https://github.com/gildas-lormeau/SingleFile. Téléchargez le plugin adapté à votre navigateur et fouillez un peu pour voir les diverses options.
-
+Les données issues de la presse peuvent aussi être utiles. Des bases de données permettent de trouver ces articles (voir [[Trouver des articles de presse]]).
 * Analyser les données
 ** Comment coder les données qualitative ?
 Il existe plusieurs méthodes de codage des textes en sciences sociales. Les textes ci-dessous permettent d'avoir un apperçu de ces différentes méthodes :
