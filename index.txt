@@ -8,7 +8,7 @@
 #+LATEX_CLASS_OPTIONS: [presentation]
                                                           
 /[[http://chairecontroledegestion.hec.ca/][Samuel Sponem, Professeur Agrégé, HEC Montréal]]/
-/Mise à jour: {{{time(%Y-%m-%d)}}}/
+/Mise à jour: {{{time(%Y-%m-%d)}}} - ([[https://github.com/samspo/Faq/commits/master][liste des mises à jour]])/
 
 * Introduction
 Ce document est une liste des /FAQ (Frequently Asked Questions)/ des étudiants lorsqu'ils réalisent un mémoire, un projet supervisé ou une thèse de doctorat à HEC Montréal, plus particulièrement dans le domaine des sciences comptables. Il n'est pas exhaustif et est construit au fur et à mesure, à partir des interactions que j'ai avec les étudiants que j'encadre. 
@@ -292,7 +292,8 @@ Voir aussi : https://otranscribe.com/
 Le logiciel f4transkript semble constituer une alternative conviviale (payante mais peu chère) : <https://www.audiotranskription.de/english/f4.htm>
 Attention, je vous conseille de localiser le projet dans une dropbox afin d'éviter toute surprise (ou de faire des sauvegardes du fichier rtf souvent afin d'éviter toute perte de données en cas de problème du logiciel).
 ** Collecter des données secondaires
-Il est souvent important de collecter des données publiques qui permettent de comprendre le contexte dans lequel se situe l'organisation. On est très vite noyé sous l'information. Un moyen simple d'organiser les données est de faire des dossiers par thèmes (par exemple Informations financières / Informations stratégiques) et au sein de ces données de faire commencer le nom des fichiers par la date de production de ces fichier. Par exemple, le rapport annuel 2022 (paru en avril) d'une organisation irait dans le dossier "Informations financières" et serait nommé 2022-04-RapportAnnuel.
+Il est souvent important de collecter des données publiques qui permettent de comprendre le contexte dans lequel se situe l'organisation. 
+On est très vite noyé sous l'information. Un moyen simple d'organiser les données est de faire des dossiers par thèmes (par exemple Informations financières / Informations stratégiques) et au sein de ces données de faire commencer le nom des fichiers par la date de production de ces fichier. Par exemple, le rapport annuel 2022 (paru en avril) d'une organisation irait dans le dossier "Informations financières" et serait nommé 2022-04-RapportAnnuel.
 Lorsque les informations sont sur le web, on peut les transformer en pdf avec https://www.printfriendly.com/ (en installant le plugin adapté à votre navigateur). Vous pouvez aussi les garder en format html et les télécharger proprement avec https://github.com/gildas-lormeau/SingleFile. Téléchargez le plugin adapté à votre navigateur et fouillez un peu pour voir les diverses options.
 
 * Analyser les données
