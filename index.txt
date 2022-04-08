@@ -224,12 +224,10 @@ Sur ce sujet, voir:
 - La bibliothèque propose d'utiliser Endnote. Cependant Endnote n'est pas gratuit. Une fois que vous aurez fini vos études, vous n'aurez donc plus accès à votre base.
 - Je vous suggère d'utiliser Zotero, un logiciel open source. Pour synchronizer ses données, il est possible de payer le service auprès de zotero ou de trouver un webdav gratuit (voir ici: https://www.zotero.org/support/kb/webdav_services)
 - Le plugin Zotfile est particulièrement utile pour gérer les PDF à partir de Zotero (extraction des annotations et synchronisation avec une tablette) : http://zotfile.com/
+- Avec la nouvelle version de zotero parue en mars 2022, le plugin Zotfile devient moins indispensable: il est possible d'annoter les documents directement sur Zotero. Il existe même une version IPAD de Zotero https://apps.apple.com/us/app/zotero/id1513554812 
 *Tutoriels* 
 - https://www.zotero.org/support/fr/quick_start_guide
-- http://www.bib.umontreal.ca/lgb/zotero
-- https://github.com/fflamerie/zotero_gerer_biblio
-- https://sciencespo.libguides.com/zotero
-- https://www.youtube.com/watch?v=lI9OyvOEv4g&
+- https://zotero.hypotheses.org/
 * Collecter les données
 ** Ajouter quelque chose sur le journal de terrain :noexport:
 Noiriel1990
@@ -318,10 +316,10 @@ Vous devez apporter un soin particulier à la présentation des données quantit
 ** Construire une base de connaissances
 Il est indispensable de garder une trace de toutes les lectures faites. La grille proposée ci-dessus dans la section qui explique comment lire un article de recherche peut être utilisée pour chaque article lu. 
 Les notes prises doivent être facilement accessibles (il faut aussi trouver un système durable, que vous pourrez encore utiliser dans 10 ans (voir des explications [[https://scottnesbitt.gitlab.io/2017/07/11/matters.html][ici]], par exemple). Un moyen de faire cela est de mettre les chaque article dans un fichier de type texte (extension .txt) et de disposer d'un logiciel pour faire des recherches. Quelques logiciels simples d'utilisation peuvent être utilisés :
+- https://obsidian.md/ (disponible sur plusieurs plate-forme et dont le développement est très dynamique)
 - https://fsnot.es/ (logiciel open source, dont la version gratuite est [[https://github.com/glushchenko/fsnotes/releases][ici]])
 - https://notable.md/
 - http://resoph.com/ResophNotes/Welcome.html (pour windows)
-- https://obsidian.md/ (disponible sur plusieurs plate-forme et dont le développement est très dynamique)
 - https://orgmode.org/ (plus compliqué, nécessite d'installer https://www.gnu.org/software/emacs/), combiné avec des packages adaptés de type https://jblevins.org/projects/deft/ ou https://www.orgroam.com/ (pour les très /geeks/ uniquement).
 Dans le même style, on pourrait utiliser https://bear.app/ https://roamresearch.com/ ou https://www.notion.so/ qui semblent pratiques et simple à utiliser, mais c'est payant et cela rend dépendant d'un logiciel qui pourrait disparaître (alors que des fichiers de type "texte" seront toujours utilisables). La recherche est un processus long, il faut TOUJOURS privilégier les formats ouverts et pérennes. 
 Voir aussi des logiciels (libres) un peu plus compliqués, qui tentent de reproduire le principe de la méthode zettelkasten (voir https://zettelkasten.de/), par exemple https://www.zettlr.com/
