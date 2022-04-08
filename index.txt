@@ -140,7 +140,7 @@ Les théories utilisées sont les travaux de recherches réalisés précédemmen
 *** Apports pour la pratique / actualité de la question
 *** De la lecture à l'évaluation/révision des articles de recherche :noexport:
 Pour les étudiants de PhD, il faut aussi apprendre à évaluer les article de recherche (qui sont soumis à des conférences ou à des revues). Lorsque l'opportunité se présente, il faut la saisir. Ce n'est pas intéressant en soi
-(faire des révisions c'est comme corriger des copies, c'est pénible). Cependant, c'est une très bonne façon de comprendre le processus de publication auxquels vos articles seront soumis. En termes de compétences, il faut juste discuter le papier, par exemple en utilisant la grille proposée ci-dessus. Deux questions doivent guider la lecture: 1/ est-ce que le design de recherche fait du sens? (est-ce que vous faites confiance aux données empiriques utilisées pour la démonstration? est-ce que l'articulation des arguments est logique) 2/ est-ce que le papier apporte quelque chose? (nouveauté? intérêt?, etc.)
+(faire des révisions c'est comme corriger des copies, c'est pénible). Cependant, c'est une très manière de comprendre le processus de publication auxquels les articles sont soumis. La discussion du papier peut par exemple être organisée en utilisant la grille proposée ci-dessus. Deux questions doivent guider la lecture: 1/ est-ce que le design de recherche fait du sens? (est-ce que l'ont peut faire confiance aux données empiriques utilisées pour la démonstration? est-ce que l'articulation des arguments est logique) 2/ est-ce que le papier apporte quelque chose? (nouveauté? intérêt?, etc.)
 En général, pour une conférence, on est plus sympa dans les évaluations et on essaye d'expliquer comment le papier pourrait être amélioré (on fait aussi ça pour le revues, dans une certaine mesure, mais les critères d'acceptation sont plus élevés).
 ** Exemples d'articles de recherche
 - Sponem, S., & Lambert, C. (2016). Exploring differences in budget characteristics, roles and satisfaction: A configurational approach. Management Accounting Research, 30, 47–61. https://doi.org/10.1016/j.mar.2015.11.003
@@ -295,7 +295,7 @@ Attention, je vous conseille de localiser le projet dans une dropbox afin d'évi
 * Analyser les données
 ** Comment coder les données qualitative ?
 Pour le codage, les textes suivants peuvent être utiles :
-- https://us.sagepub.com/sites/default/files/upm-binaries/43454_10.pdf
+- https://us.sagepub.com/sites/default/filesn/upm-binaries/43454_10.pdf
 - Mayring, P. (2014). Qualitative content analysis: theoretical foundation, basic procedures and software solution (p. 143). Klagenfurt. http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395173 (cette référence va trop loin, mais cela fait bien le tour des possibiltés)
 ** Comment présenter des données quantitatives ?
 Vous devez apporter un soin particulier à la présentation des données quantitatives pour en donner une représentation adéquate. Quelques ressources utiles sont proposées ci-dessous :
@@ -308,16 +308,14 @@ Vous devez apporter un soin particulier à la présentation des données quantit
 * Écrire, écrire, écrire
 ** Construire une base de connaissances
 Il est indispensable de garder une trace de toutes les lectures faites. La grille proposée ci-dessus dans la section qui explique comment lire un article de recherche peut être utilisée pour chaque article lu. 
-Les notes prises doivent être facilement accessibles (il faut aussi trouver un système durable, que vous pourrez encore utiliser dans 10 ans (voir des explications [[https://scottnesbitt.gitlab.io/2017/07/11/matters.html][ici]], par exemple). Un moyen de faire cela est de mettre les chaque article dans un fichier de type texte et de disposer d'un logiciel pour faire des recherches. Quelques logiciels simples d'utilisation peuvent être utilisés :
+Les notes prises doivent être facilement accessibles (il faut aussi trouver un système durable, que vous pourrez encore utiliser dans 10 ans (voir des explications [[https://scottnesbitt.gitlab.io/2017/07/11/matters.html][ici]], par exemple). Un moyen de faire cela est de mettre les chaque article dans un fichier de type texte (extension .txt) et de disposer d'un logiciel pour faire des recherches. Quelques logiciels simples d'utilisation peuvent être utilisés :
 - https://fsnot.es/ (logiciel open source, dont la version gratuite est [[https://github.com/glushchenko/fsnotes/releases][ici]])
 - https://notable.md/
-- https://brettterpstra.com/projects/nvalt/ (pour mac)
 - http://resoph.com/ResophNotes/Welcome.html (pour windows)
-- https://orgmode.org/ (plus compliqué, nécessite d'installer https://www.gnu.org/software/emacs/), combiné avec des packages adaptés de type https://jblevins.org/projects/deft/ ou https://github.com/Kungsgeten/org-brain (pour les très /geeks/ uniquement). 
-Dans le même style, on pourrait utiliser https://bear.app/ qui semble pratique, simple à utiliser, mais payant et rend dépendant du logiciel qui pourrait disparaître (alors que des fichiers de type "texte" seront toujours utilisables).
-Ou des logiciels un peu plus compliqués, qui tentent de reproduire le principe de la méthode zettelkasten (voir https://zettelkasten.de/)
-- https://www.zettlr.com/
-- https://github.com/renerocksai/sublimeless_zk 
+- https://obsidian.md/ (disponible sur plusieurs plate-forme et dont le développement est très dynamique)
+- https://orgmode.org/ (plus compliqué, nécessite d'installer https://www.gnu.org/software/emacs/), combiné avec des packages adaptés de type https://jblevins.org/projects/deft/ ou https://www.orgroam.com/ (pour les très /geeks/ uniquement).
+Dans le même style, on pourrait utiliser https://bear.app/ https://roamresearch.com/ ou https://www.notion.so/ qui semblent pratiques et simple à utiliser, mais c'est payant et cela rend dépendant d'un logiciel qui pourrait disparaître (alors que des fichiers de type "texte" seront toujours utilisables). La recherche est un processus long, il faut TOUJOURS privilégier les formats ouverts et pérennes. 
+Voir aussi des logiciels (libres) un peu plus compliqués, qui tentent de reproduire le principe de la méthode zettelkasten (voir https://zettelkasten.de/), par exemple https://www.zettlr.com/
 ** Tenir un journal de recherche
 Il est bon de tenir un journal de recherche avec toutes les idées qui viennent des lectures ou des rencontres. Il est possible de mettre ce journal dans un fichier texte par ordre anti-chronologique avec des dates pour chacune des entrées.
 ** Écrire                                                          :noexport:
