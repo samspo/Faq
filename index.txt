@@ -292,6 +292,8 @@ Le logiciel suivant est gratuit et pratique :
 Voir aussi : https://otranscribe.com/
 Le logiciel f4transkript semble constituer une alternative conviviale (payante mais peu chère) : <https://www.audiotranskription.de/english/f4.htm>
 Attention, je vous conseille de localiser le projet dans une dropbox afin d'éviter toute surprise (ou de faire des sauvegardes du fichier rtf souvent afin d'éviter toute perte de données en cas de problème du logiciel).
+Il existe aussi des solutions de retranscription. Il est notamment possible de tester la solution proposée par microsoft:
+https://support.microsoft.com/fr-fr/office/transcrire-vos-enregistrements-7fc2efec-245e-45f0-b053-2a97531ecf57
 ** Collecter des données secondaires
 Il est souvent important de collecter des données publiques qui permettent de comprendre le contexte dans lequel se situe l'organisation. 
 On est très vite noyé sous l'information. Un moyen simple d'organiser les données est de faire des dossiers par thèmes (par exemple Informations financières / Informations stratégiques) et au sein de ces données de faire commencer le nom des fichiers par la date de production de ces fichier. Par exemple, le rapport annuel 2022 (paru en avril) d'une organisation irait dans le dossier "Informations financières" et serait nommé 2022-04-RapportAnnuel.
@@ -348,6 +350,9 @@ Quelques conseils :
 - Lors d'un premier contact, explicitez vos idées de projets (même préliminaires), votre parcours et la raison pour laquelle vous contactez cette personne ;
 - Lors des rencontres, arrivez avec des questions bien préparées, et ayez un objectif précis ;
 - À l'issue des rencontres, envoyez par courriel un compte-rendu de ce qui a été dit et décidé, cela évitera de revenir sur les mêmes problèmes la prochaine fois.
+Pour ceux qui font une thèse, ce manuel d'autodéfense, bien qu'écrit dans le contexte de l'enseignement supérieur en France, pourra être utile pour réfléchir à son positionnement face à son directeur de thèse:
+ResistESR. (2022). Manuel d’auto-défense universitaire. https://universiteouverte.org/autodefense-universitaire
+
 * Idées de sujets
 - Entrevues avec des chefs des finances autour de 3 semaine de leur agenda afin de comprendre ce que fait un chef des finances
 - Études de cas (3 ou 4 entretiens) sur la manière dont les chefs des finances et contrôleurs pilotent les projets d'investissement en TI
