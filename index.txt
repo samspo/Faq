@@ -184,9 +184,17 @@ Les ressources disponibles sur Internet peuvent répondre à l’une des catégo
 L’encyclopédie en ligne Wikipedia (http://www.wikipedia.org/) peut constituer une ressource intéressante. Elle est construite de manière collaborative et permet à chacun d’y contribuer. De cette caractéristique vient à la fois sa force (chacun peut améliorer ou corriger les articles) et sa faiblesse (elle n’est pas à l’abris des farceurs ou des idéologues qui souhaitent y faire passer un message).
 *** Lois et normes : Knotia (http://libguides.hec.ca/compt)
 *** Conferences (pour ceux qui veulent suivre les avancées de la recherche en comptabilité)
+Il est obligatoire de participer aux séminaires organisés par son département, et souvent utile d'assister aux séminaires organisés par les autres universités de Montréal
 - La conférences de l'Association Canadienne de Comptabilité se tient chaque année: https://www.caaa.ca/
 - De nombreuses conférences sont organisées chaque année dans le domaine, la European Accounting Association en propose une liste : https://arc.eaa-online.org/events
-- Pour ceux qui sont en thèse, il est indispensable de participer aux colloques doctoraux organisés par les différentes associations. Une liste (non-exhaustive) est disponible ici : https://arc.eaa-online.org/doctoral-colloquium
+- Pour ceux qui sont en thèse, il est indispensable de participer aux colloques doctoraux organisés par les différentes associations et conférences (IPA, CAAA, AAC, EAA, CPA notamment). Une liste (non-exhaustive) est disponible ici : https://arc.eaa-online.org/doctoral-colloquium
+- Pour les recherches qualitatives et critiques, de nombreuses informations sont disponibles ici: https://www.alternativeaccounting.org/
+*** Pourquoi assister aux conférences et séminaires (même si les thèmes abordés sont éloignés de votre sujet de recherche)
+- Apprendre à présenter une recherche
+- Apprendre à discuter une recherche
+- Faire du réseau
+- Voir ce qui se fait dans les recherches en comptabilité, ce qui peut donner des idées vos propres recherches
+Bien sûr, on a parfois l'impression de perdre son temps (mais voir raisons ci-dessus) ou que les autres sont beaucoup plus brillant que nous, mais il faut l'accepter.
 ** Comment exercer son esprit critiques dans le choix des sources ? 
 Les frontières entre les différents supports ne sont pas totalement étanches. Parfois, des chercheurs ou universitaires écrivent dans la presse ou dans les revues professionnelle et inversement des professionnels écrivent dans les revues de recherche. Par ailleurs, si la position de l’auteur et le support induisent des types d’écrit différents, ils ne préjugent en rien de leur qualité : seul votre esprit critique permettra de faire le tri. Un des critères de crédibilité de ces différents écrits repose sur la capacité des auteurs à citer leurs sources (documents) ou à restituer les exemples utilisés de manière précise ainsi que sur l’articulation logique des arguments.
 ** Comment trouver des ressources adéquates sur mon sujet ?
@@ -350,7 +358,7 @@ Quelques conseils :
 - Lors d'un premier contact, explicitez vos idées de projets (même préliminaires), votre parcours et la raison pour laquelle vous contactez cette personne ;
 - Lors des rencontres, arrivez avec des questions bien préparées, et ayez un objectif précis ;
 - À l'issue des rencontres, envoyez par courriel un compte-rendu de ce qui a été dit et décidé, cela évitera de revenir sur les mêmes problèmes la prochaine fois.
-Pour ceux qui font une thèse, ce manuel d'autodéfense, bien qu'écrit dans le contexte de l'enseignement supérieur en France, pourra être utile pour réfléchir à son positionnement face à son directeur de thèse:
+Pour ceux qui font une thèse, ce manuel d'auto-défense, bien qu'écrit dans le contexte de l'enseignement supérieur en France, pourra être utile pour réfléchir à son positionnement face à son directeur de thèse:
 ResistESR. (2022). Manuel d’auto-défense universitaire. https://universiteouverte.org/autodefense-universitaire
 
 * Idées de sujets
