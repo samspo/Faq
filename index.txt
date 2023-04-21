@@ -44,7 +44,7 @@ Donne l’occasion d’approfondir ses connaissances d’un problème de gestion
 - Prendre un sujet donné par un professeur: permet de s'insérer dans un programme de recherche et d'être guidé
 - Choisir vous-même un sujet : permet de creuser un sujet qui vous intéresse ou qui pourrait vous servir dans le cadre de votre carrière future (c'est l'occasion de devenir un "expert" sur un sujet donné)
 ** Quelle forme doit prendre le document ?
-Concernant l'écriture du mémoire ou du projet supervisé, le document suivant est très utile : https://www.hec.ca/qualitecomm/francais/caf/guide-redaction-travail-cycles.pdf
+Concernant l'écriture du mémoire ou du projet supervisé, le document suivant est très utile : https://www.hec.ca/cfla/francais/document/guide-redaction-travail-cycles.pdf
 Pour un mémoire ou un projet supervisé "classique" le plus simple est bien souvent de respecter le plan suivant :
 1. [[Que mettre dans l'introduction ?][Introduction]]
 2. [[Identifier et choisir les sources d'information pour faire la revue de littérature][Revue de littérature]]
@@ -299,6 +299,8 @@ Certaines pages disparaissent du Web. Des services tels que Wayback Machine (sur
 - https://github.com/dessant/web-archives
 
 Les données issues de la presse peuvent aussi être utiles. Des bases de données permettent de trouver ces articles (voir [[Trouver des articles de presse]]).
+** Stocker les données :noexport:
+https://lcbam.hypotheses.org/296
 * Analyser les données
 ** Comment coder les données qualitative ?
 Il existe plusieurs méthodes de codage des textes en sciences sociales. Les textes ci-dessous permettent d'avoir un apperçu de ces différentes méthodes :
