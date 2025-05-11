@@ -195,7 +195,7 @@ Voir Ebsco, ABI Inform (proquest), Cairn, ainsi que les sites des éditeurs (htt
 Voir https://scholar.google.ca/ (articles de recherche) et https://www.worldcat.org/ (catalogues de toutes les bibliothèques universitaires dans le monde)
 ** Trouver des ressources: un exemple
 #+BEGIN_QUOTE
-*Extraits d'un projet supervisé de maîtrise ès sciences de la gestion*
+*Extraits d'un projet supervisé de maîtrise ès sciences de la gestion soutenu en 2017*
 "Nous avons décidé d’effectuer une recherche systématique dans des revues de gestion spécialisées grâce auxquelles nous jugions avoir le plus de résultats pertinents. 
 La sélection [de revues utilisées] est la suivante: Canadian public administration : revue canadienne, consultée à l’aide de la base de données Academic Search Complete [...]
 Nous avons utilisé des mots-clés pour chercher dans les bases de données afin de bien cerner la problématique qui serait traitée et formuler une première question de recherche. Les premiers mots-clés étaient [XXX]. Une fois la problématique bien définie, nous avons procédé par recherche systématique des revues sélectionnées. Tous les articles depuis l’année 2000 à aujourd’hui ont donc été passés en revue (lecture des résumés et introductions si nécessaire) afin d’être certains de ne passer à côté d’aucun article. [...]
