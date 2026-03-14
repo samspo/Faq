@@ -1,13 +1,13 @@
 #+TITLE: Faire un projet supervisé, un mémoire ou une thèse de doctorat - Questions fréquemment posées (FAQ)
 #+SUBTITLE: https://samspo.github.io/Faq
-#+AUTHOR: Samuel Sponem, Professeur Agrégé, HEC Montréal
+#+AUTHOR: Samuel Sponem, HEC Montréal
 #+AUTHOR: http://chairecontroledegestion.hec.ca
 #+DATE:
 #+OPTIONS: \n:true whn:0 H:2
 #+LATEX_CLASS: beamer
 #+LATEX_CLASS_OPTIONS: [presentation]
                                                           
-/[[http://chairecontroledegestion.hec.ca/][Samuel Sponem, Professeur Agrégé, HEC Montréal]]/
+/[[http://chairecontroledegestion.hec.ca/][Samuel Sponem, HEC Montréal]]/
 /Mise à jour: {{{time(%Y-%m-%d)}}} - ([[https://github.com/samspo/Faq/commits/master][liste des mises à jour]])/
 
 * Introduction
@@ -54,7 +54,7 @@ Pour un mémoire ou un projet supervisé "classique" le plus simple est bien sou
 L'objectif est de poser une question dans l'introduction à laquelle le mémoire tente d'apporter une réponse à partir d'éléments théoriques (lectures)  et/ou empiriques (données collectés).
 ** Que mettre dans l'introduction ?
 L'introduction doit permettre de justifier le projet et d'annoncer le travail qui est développé dans le document. On doit y trouver :
-1. Une accroche qui permet de montrer l'intérêt du sujet et motivations qui poussent à réaliser la recherche
+1. Une accroche qui permet de montrer l'intérêt du sujet et les motivations qui poussent à réaliser la recherche
 2. Les définitions importantes pour faire le travail ainsi la mise en évidence d'un "problème" (ce qu'on appelle en général une problématique)
 2. Une question de recherche ou un objectif de recherche
 4. Un résumé des résultats et apport du travail (contributions à la littérature, qui seront développées en discussion et conclusion)
@@ -69,7 +69,7 @@ L'introduction doit permettre de justifier le projet et d'annoncer le travail qu
 /Pendant toutes ces étapes, il faut écrire! Ce qui est écrit pourra être inséré au fur et à mesure (souvent après réécriture) dans le document/
 * Identifier et choisir les sources d'information pour faire la revue de littérature
 ** Pourquoi faire une revue de littérature ?
-- Faire l'état des connaissance sur un sujet donné. /Si l'objectif du mémoire est de faire seulement une revue de littérature, sans terrain, c'est une bonne idée de montrer l'exhaustivité de la revue de littérature/ 
+- Faire l'état des connaissances sur un sujet donné. /Si l'objectif du mémoire est de faire seulement une revue de littérature, sans terrain, c'est une bonne idée de montrer l'exhaustivité de la revue de littérature/ 
 - Comprendre le contexte (par exemple juridique ou économique)
 - Permettre de faire des hypothèses
 - Construire une grille d'analyse du phénomène qui servira à analyser les données collectées
@@ -222,8 +222,7 @@ Sur ce sujet, voir:
 ** Quel logiciel utiliser collecter, consulter et citer ses sources ?
 - La bibliothèque propose d'utiliser Endnote. Cependant Endnote n'est pas gratuit. Une fois que vous aurez fini vos études, vous n'aurez donc plus accès à votre base.
 - Je vous suggère d'utiliser Zotero, un logiciel open source. Pour synchronizer ses données, il est possible de payer le service auprès de zotero ou de trouver un webdav gratuit (voir ici: https://www.zotero.org/support/kb/webdav_services)
-- Le plugin Zotfile est particulièrement utile pour gérer les PDF à partir de Zotero (extraction des annotations et synchronisation avec une tablette) : http://zotfile.com/
-- Avec la nouvelle version de zotero parue en mars 2022, le plugin Zotfile devient moins indispensable: il est possible d'annoter les documents directement sur Zotero. Il existe même une version IPAD de Zotero https://apps.apple.com/us/app/zotero/id1513554812 
+- Il est possible d'annoter les documents directement sur Zotero. Il existe même une version IPAD de Zotero https://apps.apple.com/us/app/zotero/id1513554812 
 *Tutoriels* 
 - https://www.zotero.org/support/fr/quick_start_guide
 - https://zotero.hypotheses.org/
@@ -335,7 +334,7 @@ Voir aussi des logiciels (libres) un peu plus compliqués, qui tentent de reprod
 Il est bon de tenir un journal de recherche avec toutes les idées qui viennent des lectures ou des rencontres. Il est possible de mettre ce journal dans un fichier texte par ordre anti-chronologique avec des dates pour chacune des entrées.
 ** Écrire :noexport:
  Voir ce que dit Jean Barbe
- L'écriture est une processus
+ L'écriture est un processus
 * Communiquer et échanger
 ** Comment présenter votre document de manière professionnelle ?
 Pour s'assurer de la cohérence de la présentation du document, il est indispensable d'utiliser les [[https://support.office.com/fr-fr/article/appliquer-des-styles-f8b96097-4d25-4fac-8200-6139c8093109][styles de Word]]. Ceci facilite aussi la [[https://support.office.com/fr-fr/article/utiliser-le-volet-de-navigation-394787be-bca7-459b-894e-3f8511515e55][navigation dans le document]].
